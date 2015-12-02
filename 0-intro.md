@@ -27,29 +27,47 @@ Attention : la plupart des éditeurs de texte permettent d'insérer du code HTML
 Par ailleurs, même si votre intention était de pallier des erreurs de code liées à la conception du site et aux paramétrages du logiciel pour rendre le contenu plus accessible, toute intervention sur le code au niveau des [contributeurs](glossaire.md#contributeur) rend une réparation difficile voire impossible du côté des développeurs par la suite.
 
 ### Mode d'emploi du guide
- 
+
 Le guide a été pensé comme une série de fiches pratiques étant toutes sur le même modèle pour en faciliter l'utilisation. Vous pouvez les lire en fonction de vos besoins, sans avoir à suivre un ordre particulier, chaque fiche étant indépendante.
- 
+
 Chaque fiche est structurée de la même manière&nbsp;:
- 
+
 * **Enjeux pour l'utilisateur handicapé**&nbsp;: cette section vient expliciter l'importance des recommandations décrites pour les utilisateurs concernés&nbsp;;
 * **En pratique et en images**&nbsp;: il s'agit d'un mini-tutoriel vous expliquant pas à pas et de façon illustrée ce que vous devez faire pour prendre en compte l'accessibilité sur la thématique abordée dans la fiche&nbsp;;
 * **Mémo pour agir**&nbsp;: un récapitulatif sous forme de liste à puces vient clore le tutoriel, pour vous aider à retenir l'essentiel et à mettre en pratique les recommandations abordées plus haut dans la fiche.
- 
+
 En plus de ces trois sections, vous pouvez retrouver selon les fiches :
- 
+
 * **Idées reçues**&nbsp;: on décortique ici les idées reçues concernant l'accessibilité sur la thématique concernée&nbsp;;
 * **Voir aussi**&nbsp;: nous indiquons ici lorsqu'il y a des liens avec d'autres guides édités dans le cadre des ressources complémentaires au RGAA 3&nbsp;;
 * **Voir ailleurs**&nbsp;: nous listerons une sélection de ressources tierces dont la qualité et la complémentarité à l'approche adoptée dans ce guide nous semblent intéressantes.
- 
-Enfin, vous retrouverez toujours au bas de la fiche : 
+
+Enfin, vous retrouverez toujours au bas de la fiche :
 
 * **Correspondances RGAA 3**&nbsp;: les correspondances avec les critères du référentiel technique du RGAA 3&nbsp;;
 * **Sommaire**&nbsp;: une liste vous permettant de naviguer à travers l'ensemble des fiches du guide.
 
+## Sommaire des fiches thématiques
+
+* [Introduction](0-intro.md)
+* [Fiche 1&nbsp;: Quand une image vaut mille mots](images.md)
+* [Fiche 2&nbsp;: Les couleurs](couleurs.md)
+* [Fiche 3&nbsp;: Embarquer des contenus d'autres sites sur ses pages](cadres.md)
+* [Fiche 4&nbsp;: Du multimédia pour tous et toutes](multimedia.md)
+* [Fiche 5&nbsp;: Des tableaux pour présenter des données, <i lang="en">what else?</i>](tableaux.md)
+* [Fiche 6&nbsp;: Créer du lien sans perdre son chemin](liens.md)
+* [Fiche 7&nbsp;: Les titres, ou le plan de la page](titres.md)
+* [Fiche 8&nbsp;: Listes à puces et listes numérotées](listes.md)
+* [Fiche 9&nbsp;: Textes multilingues](langue.md)
+* [Fiche 10&nbsp;: Citations](citations.md)
+* [Fiche 11&nbsp;: Mise en forme des textes](mise-en-forme.md)
+* [Fiche 12&nbsp;: Documents en téléchargement](docs_telechargement.md)
+* [Fiche 13&nbsp;: Abréviations, mots complexes et glossaire](definition.md)
+* [Glossaire](glossaire.md)
+
 ### Contribution web et RGAA 3
 
-Thématiques du RGAA 3 abordées à travers ces fiches&nbsp;: 
+Thématiques du RGAA 3 abordées à travers ces fiches&nbsp;:
 
 * [Images](http://references.modernisation.gouv.fr/referentiel-technique-0#title-121-images)&nbsp;;
 * [Cadres](http://references.modernisation.gouv.fr/referentiel-technique-0#title-122-cadres)&nbsp;;
@@ -82,21 +100,3 @@ Guide la conception web accessible (en cours de rédaction).
 ### Licence d'utilisation
 
 Ce document est la propriété du Secrétariat général à la modernisation de l'action publique français (SGMAP). Il est placé sous la [licence ouverte 1.0 ou ultérieure](https://www.etalab.gouv.fr/licence-ouverte-open-licence), équivalente à une licence <i lang="en">Creative Commons BY</i>. Pour indiquer la paternité, ajouter un lien vers la version originale du document disponible sur le [compte <span lang="en">GitHub</span> de la DInSIC](https://github.com/DISIC).
-
-## Sommaire des fiches thématiques
-
-* [Introduction](0-intro.md)
-* [Fiche 1&nbsp;: Quand une image vaut mille mots](images.md)
-* [Fiche 2&nbsp;: Les couleurs](couleurs.md)
-* [Fiche 3&nbsp;: Embarquer des contenus d'autres sites sur ses pages](cadres.md)
-* [Fiche 4&nbsp;: Du multimédia pour tous et toutes](multimedia.md)
-* [Fiche 5&nbsp;: Des tableaux pour présenter des données, <i lang="en">what else?</i>](tableaux.md)
-* [Fiche 6&nbsp;: Créer du lien sans perdre son chemin](liens.md)
-* [Fiche 7&nbsp;: Les titres, ou le plan de la page](titres.md)
-* [Fiche 8&nbsp;: Listes à puces et listes numérotées](listes.md)
-* [Fiche 9&nbsp;: Textes multilingues](langue.md)
-* [Fiche 10&nbsp;: Citations](citations.md)
-* [Fiche 11&nbsp;: Mise en forme des textes](mise-en-forme.md)
-* [Fiche 12&nbsp;: Documents en téléchargement](docs_telechargement.md)
-* [Fiche 13&nbsp;: Abréviations, mots complexes et glossaire](definition.md)
-* [Glossaire](glossaire.md)
