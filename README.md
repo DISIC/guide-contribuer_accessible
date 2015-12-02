@@ -1,4 +1,4 @@
-# Guide « CONTRIBUER SUR LE WEB DE MANIÈRE ACCESSIBLE »
+# Guide « Contribuer sur le Web de manière accessible »
 ## PRÉSENTATION
 
 Ce guide du contributeur est destiné à toute personne amenée à produire des contenus web via un éditeur de texte fourni par un logiciel de gestion de contenus (CMS). Il n'est pas nécessaire de savoir lire ni écrire du code HTML pour utiliser ce guide.
