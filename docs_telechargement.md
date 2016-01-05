@@ -1,6 +1,6 @@
 # Fiche 12&nbsp;: Documents en téléchargement
 
-## L'enjeu pour l'utilisateur handicapé
+## L'enjeu pour l'utilisateur en situation de handicap
 
 L'accessibilité des documents en téléchargement relève des mêmes enjeux que l'accessibilité d'un contenu web. Vous devez structurer un document avec des titres, des listes, etc. pour permettre aux utilisateurs de pouvoir naviguer et se repérer aisément dans le document. Toutes les autres problématiques s'appliquent également&nbsp;: les couleurs, les descriptions d'image, les tableaux, les liens, etc.
 

@@ -5,7 +5,7 @@ On distingue deux types d'images&nbsp;:
 - les images porteuses d'informations (qui ont besoin d'un texte de remplacement)&nbsp;;
 - les images de décoration (qui ne doivent pas avoir de texte de remplacement).
 
-## L'enjeu pour l'utilisateur handicapé
+## L'enjeu pour l'utilisateur en situation de handicap
 
 Les images véhiculent parfois une information non textuelle. Cette information, qui peut aider à comprendre le contenu auquel elle se rapporte, doit pouvoir être accessible à tous.
 

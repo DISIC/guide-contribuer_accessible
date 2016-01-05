@@ -2,7 +2,7 @@
 
 Que ce soit sur une image, dans un texte ou encore dans une vidéo, vous devez prêter une attention particulière à l'utilisation que vous faites des couleurs.
 
-## L'enjeu pour l'utilisateur handicapé
+## L'enjeu pour l'utilisateur en situation de handicap
 
 Les couleurs sont une problématique importante pour les utilisateurs qui ne perçoivent pas du tout les couleurs, notamment les personnes aveugles, très malvoyantes ou celles qui ont des déficiences de perception des couleurs (daltonisme par exemple).
 

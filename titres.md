@@ -1,6 +1,6 @@
 # Fiche 7&nbsp;: Les titres, ou le plan de la page
 
-## L'enjeu pour l'utilisateur handicapé
+## L'enjeu pour l'utilisateur en situation de handicap
 
 Utiliser des titres et des sous-titres permet de structurer votre texte en parties et fournit à l'utilisateur un plan du document et lui permet de naviguer de titre en titre pour se déplacer plus rapidement dans le contenu de la page.
 

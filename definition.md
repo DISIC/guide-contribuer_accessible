@@ -2,7 +2,7 @@
 
 **Toutes les recommandations de cette fiche étant souvent difficiles à mettre en &oelig;uvre, elles ne relèvent pas du niveau minimum légal français. Il s'agit de recommandations de niveau AAA qui permettent l'accès à l'information à certains utilisateurs. Elles restent malgré cela des recommandations importantes voire indispensables pour l'accès à l'information de certains utilisateurs.**
 
-## L'enjeu pour l'utilisateur handicapé
+## L'enjeu pour l'utilisateur en situation de handicap
 
 Les abréviations et mots complexes sont une problématique qui concernent en priorité les utilisateurs présentant des déficiences cognitives, les utilisateurs qui ont un niveau d'éducation inférieur à la classe de 6<sup>e</sup> ou encore certains utilisateurs sourds qui lisent très peu le langage écrit au profit de la langue des signes. 
 

@@ -14,7 +14,7 @@ De même, nous ne traiterons pas dans ce guide de ce qui relève de la conceptio
 Ce guide a été pensé comme une série de fiches pratiques étant toutes sur le même modèle pour en faciliter l'utilisation. Vous pouvez les lire en fonction de vos besoins, sans avoir à suivre un ordre particulier, chaque fiche étant indépendante.
 
 Chaque fiche est structurée de la même manière :
-* Enjeux pour l'utilisateur handicapé
+* Enjeux pour l'utilisateur en situation de handicap
 * En pratique et en images
 * Mémo pour agir
 

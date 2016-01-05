@@ -11,7 +11,7 @@ La forme concerne tout ce qui concerne les couleurs des textes, la taille des ca
 Vous ne devez pas modifier ces propriétés, notamment les propriétés de texte, grâce aux éditeurs de texte via lesquels vous insérez du contenu. En effet, ces styles ont été conçus et réfléchis (couleur, interlignage etc.) pour l'accessibilité. Si vous les modifiez sans en connaître les impacts, il peut en résulter un défaut d'accessibilité.
 
 
-## L'enjeu pour l'utilisateur handicapé
+## L'enjeu pour l'utilisateur en situation de handicap
 
 La mise en forme des textes est une problématique qui touche principalement les personnes ayant des troubles cognitifs (dyslexiques par exemple).
 

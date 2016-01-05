@@ -1,6 +1,6 @@
 # Fiche 10&nbsp;: Citations
 
-## L'enjeu pour l'utilisateur handicapé
+## L'enjeu pour l'utilisateur en situation de handicap
 
 Lorsque vous introduisez une citation dans un texte, vous utilisez généralement des guillemets. Or, les guillemets sont des marqueurs typographiques qui peuvent tout autant marquer une citation qu'une emphase.
 

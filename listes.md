@@ -1,6 +1,6 @@
 # Fiche 8&nbsp;: Listes &#224; puces et listes num&#233;rot&#233;es
 
-## L'enjeu pour l'utilisateur handicapé
+## L'enjeu pour l'utilisateur en situation de handicap
 
 Structurer les contenus avec les éléments appropriés offre une expérience de navigation enrichie pour les utilisateurs de [lecteur d'écran](glossaire.md#lecteur-decran). 
 

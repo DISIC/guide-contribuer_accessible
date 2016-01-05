@@ -5,7 +5,7 @@ La majeure partie des contenus multimédias que vous rencontrerez sont des vidé
 Entrent également dans la catégorie de contenus multimédias, les éléments interactifs comme les animations ou publicités en Flash par exemple.
 
 
-## L'enjeu pour l'utilisateur handicapé
+## L'enjeu pour l'utilisateur en situation de handicap
 
 Les contenus multimédias peuvent véhiculer de l'information par les images (actions, textes incrustés) ou par le son (bande sonore d'une vidéo, ou fichier son seul).
 
@@ -31,7 +31,7 @@ Les sous-titres ne concernent que les vidéos. Ils doivent reprendre toutes les 
 
 Ils doivent êtres correctement synchronisés et ils doivent être activables et désactivables depuis le lecteur. Si le lecteur ne propose pas cette fonctionnalité, alors il est possible de mettre 2 vidéos à disposition&nbsp;: une vidéo sans les sous-titres et une vidéo avec les sous-titres. Chacune peut être placée sur une page différente, l'important est que l'utilisateur comprenne aisément qu'il existe une version avec les sous-titres. Le plus simple sera alors de créer un lien avant la vidéo sans les sous-titres qui mène vers la vidéo avec les sous-titres et au-dessus de la vidéo avec les sous-titres, créer un lien qui ramène vers la vidéo sans les sous-titres.
 
-Ci dessous, un exemple de vidéo avec des sous-titres. [Retrouvez cet exemple sur le site de la délégation à l’accessibilité et aux voyageurs handicapés de SNCF](http://www.accessibilite.sncf.com/actualites/a-la-une/article/video-sncf-24-24-sur-acces-plus).
+Ci dessous, un exemple de vidéo avec des sous-titres. [Retrouvez cet exemple sur le site de la délégation à l’accessibilité et aux voyageurs en situation de handicap de SNCF](http://www.accessibilite.sncf.com/actualites/a-la-une/article/video-sncf-24-24-sur-acces-plus).
 
 <img src="img/multimedia/sous-titres.png" alt="">
 
