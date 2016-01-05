@@ -4,7 +4,7 @@
 
 ## L'enjeu pour l'utilisateur handicapé
 
-Les abréviations et mots complexes sont une problématique qui concernent en priorité les utilisateurs présentant des déficiences cognitives, les utilisateurs qui ont un niveau d'éducation inférieur à la classe de 6<sup>e</sup> ou encore certains utilisateurs sourds qui lisent très peu le langage écrit au profit de la langue des signes. 
+Les abréviations et mots complexes sont une problématique qui concernent en priorité les utilisateurs présentant des déficiences cognitives, les utilisateurs qui ont un niveau d'éducation inférieur à la classe de 6<sup>e</sup> ou encore certains utilisateurs sourds qui lisent très peu le langage écrit au profit de la langue des signes.
 
 Utiliser des termes complexes sans les définir, sans fournir d'aide pour en comprendre le sens, employer des expressions figuratives, etc. met en défaut ces utilisateurs et les empêche de comprendre les textes et d'accéder à l'information.
 
@@ -12,7 +12,7 @@ Utiliser des termes complexes sans les définir, sans fournir d'aide pour en com
 
 ### Prononciation des mots
 
-Certains mots ne peuvent pas être compris si nous n'en connaissons pas la prononciation. Certains utilisateurs, qui présentent des déficiences cognitives ou qui utilisent une synthèse vocale, ont besoin de ces prononciations. 
+Certains mots ne peuvent pas être compris si nous n'en connaissons pas la prononciation. Certains utilisateurs, qui présentent des déficiences cognitives ou qui utilisent une synthèse vocale, ont besoin de ces prononciations.
 
 L'exemple typique est &nbsp;: «&nbsp;Les poules du couvent couvent.&nbsp;». Une synthèse vocale va lire à l'utilisateur «&nbsp;Les poules du couve couve&nbsp;». Cette phrase est alors incompréhensible.
 
@@ -20,9 +20,9 @@ Le plus simple, pour rendre cette prononciation accessible à tous est d'indique
 
 ### Abréviations
 
-Souvent les abréviations ou acronymes ne sont compris que par une partie d'utilisateurs initiés ou experts du domaine concerné, ou d'un niveau de scolarisation avancé. 
+Souvent les abréviations ou acronymes ne sont compris que par une partie d'utilisateurs initiés ou experts du domaine concerné, ou d'un niveau de scolarisation avancé.
 
-Pour permettre la compréhension par tous, vous devez indiquer leur signification sur la première occurrence dans un document. 
+Pour permettre la compréhension par tous, vous devez indiquer leur signification sur la première occurrence dans un document.
 Le plus simple est d'indiquer immédiatement après l'abréviation la signification entre parenthèses. Par exemple : TVA (Taxe sur la valeur ajoutée).
 
 ### Jargons, expressions inhabituelles, expressions idiomatiques et mots nécessitant un niveau de lecture avancée
@@ -41,7 +41,7 @@ De même, le jargon, les expressions idiomatiques ou inhabituelles doivent être
 - Une définition dans la page.
 - L'expression est contenue dans un lien permettant d'accéder à la définition.
 
-Pour des recommandations d'écriture en langage simple, nous vous renvoyons à la méthode **Facile à lire et à comprendre (FALC)** de l'UNAPEI. Vous pouvez [trouverez des guides sur le site de l'ADAPEI](http://www.adapei66.org/articles-5/78-158-les-3-guides/). La méthode Facile à lire et à comprendre donne des recommandations pour rédiger et illustrer des textes afin qu'ils soient accessibles aux personnes en situation de handicap mental, psychique ou cognitif. 
+Pour des recommandations d'écriture en langage simple, nous vous renvoyons à la méthode **Facile à lire et à comprendre (FALC)** de l'UNAPEI. Vous pouvez [trouverez des guides sur le site de l'ADAPEI](http://www.adapei66.org/articles-5/78-158-les-3-guides/). La méthode Facile à lire et à comprendre donne des recommandations pour rédiger et illustrer des textes afin qu'ils soient accessibles aux personnes en situation de handicap mental, psychique ou cognitif.
 
 ### Glossaire
 
@@ -51,7 +51,7 @@ Rapprochez-vous de votre service informatique pour évaluer cette possibilité.
 
 ## Correspondances RGAA 3.0
 
-- Critère 9.4 [AAA] 
+- Critère 9.4 [AAA]
 - Critère 9.5 [AAA]
 - Critère 13.9 [AAA]
 - Critère 13.10 [AAA]

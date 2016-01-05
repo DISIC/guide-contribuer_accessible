@@ -4,9 +4,9 @@
 
 Sur le web, il faut bien **distinguer le fond et la forme**.
 
-Le fond rassemble le contenu, les informations que vous ajoutez en tant que contributeur. Il s'agit principalement de texte et d'images. 
+Le fond rassemble le contenu, les informations que vous ajoutez en tant que contributeur. Il s'agit principalement de texte et d'images.
 
-La forme concerne tout ce qui concerne les couleurs des textes, la taille des caractères et toutes les autres propriétés de texte, les positionnements des éléments… La forme est réalisée par le développeur qui écrit une feuille de style qui s'applique aux éléments de la page. 
+La forme concerne tout ce qui concerne les couleurs des textes, la taille des caractères et toutes les autres propriétés de texte, les positionnements des éléments… La forme est réalisée par le développeur qui écrit une feuille de style qui s'applique aux éléments de la page.
 
 Vous ne devez pas modifier ces propriétés, notamment les propriétés de texte, grâce aux éditeurs de texte via lesquels vous insérez du contenu. En effet, ces styles ont été conçus et réfléchis (couleur, interlignage etc.) pour l'accessibilité. Si vous les modifiez sans en connaître les impacts, il peut en résulter un défaut d'accessibilité.
 
@@ -23,7 +23,7 @@ Sachez également, que les recommandations qui suivent peuvent être atteintes e
 
 ### Texte justifié
 
-Afin de conserver un espacement entre les mots qui reste constant il est recommandé de ne pas utiliser de texte justifié. En effet, justifier un texte va recalculer tous les espacement entre les mots, rendre ces espacements différents à chaque fois, et perturber la lecture et la compréhension des utilisateurs qui présentent des troubles de la lecture. Pour ces utilisateurs, il est préférable de conserver un espacement constant. 
+Afin de conserver un espacement entre les mots qui reste constant il est recommandé de ne pas utiliser de texte justifié. En effet, justifier un texte va recalculer tous les espacement entre les mots, rendre ces espacements différents à chaque fois, et perturber la lecture et la compréhension des utilisateurs qui présentent des troubles de la lecture. Pour ces utilisateurs, il est préférable de conserver un espacement constant.
 
 Dans la plupart des éditeurs de texte riche, vous avez plusieurs boutons qui vous permettent de configurer l'alignement des textes&nbsp;:
 
@@ -38,7 +38,7 @@ Parfois, l'alignement des textes est défini par le développeur, dans la feuill
 
 ### Interlignage
 
-Il est préférable d'avoir un interlignage suffisamment large. On demande à ce que l'interlignage soit au moins équivalent à 1,5 fois la taille du texte. 
+Il est préférable d'avoir un interlignage suffisamment large. On demande à ce que l'interlignage soit au moins équivalent à 1,5 fois la taille du texte.
 
 Il est très rare de trouver un éditeur de texte qui vous permette de définir l'interlignage. Ici encore, rapprochez-vous du développeur de votre site pour cette problématique.
 

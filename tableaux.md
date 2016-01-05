@@ -11,7 +11,7 @@ Un tableau est une structure particulière. Un utilisateur présentant une défi
 
 Pour accompagner l'utilisateur dans la lecture du tableau, il est important de définir des en-têtes de colonnes ou de lignes. Si elles sont définies, l'utilisateur de [lecteur d'écran](glossaire.md#lecteur-decran), qui n'a pas une vision globale du tableau, accède à ces en-têtes à chaque fois qu'il consulte une cellule du tableau. Cela lui permet de se repérer rapidement et ne pas avoir à reparcourir tout un tableau pour savoir quels en-têtes définissent la donnée en lecture.
 
-Un titre de tableau est également indispensable. Il informe l'utilisateur sur le contenu (type de données, structure du tableau), ce qui lui permet de savoir s'il va ou non le parcourir et de se préparer à la lecture. 
+Un titre de tableau est également indispensable. Il informe l'utilisateur sur le contenu (type de données, structure du tableau), ce qui lui permet de savoir s'il va ou non le parcourir et de se préparer à la lecture.
 
 Pour un utilisateur présentant une déficience cognitive, présenter le tableau par un titre offre également des clés de compréhension du contenu.
 
@@ -39,23 +39,23 @@ Si vous créez un tableau complexe, vous devez fournir, en plus d'un titre, un r
 
 Le résumé d'un tableau complexe doit expliciter la structure du tableau et les données.
 
-Un tableau de données complexe demande généralement des ajustements dans le code du tableau. Vous n'avez pas la capacité (généralement limité par les fonctions de l'éditeur de texte) de réaliser les ajustements nécessaires. 
+Un tableau de données complexe demande généralement des ajustements dans le code du tableau. Vous n'avez pas la capacité (généralement limité par les fonctions de l'éditeur de texte) de réaliser les ajustements nécessaires.
 
-Dans la mesure du possible, si votre tableau est complexe, essayez de le simplifier, quitte à réaliser plusieurs tableaux simples. 
+Dans la mesure du possible, si votre tableau est complexe, essayez de le simplifier, quitte à réaliser plusieurs tableaux simples.
 
-Ci-dessous un exemple de tableau complexe (issu et adapté du site de l'INSEE). Vous y trouvez des en-têtes de colonnes fusionnées («&nbsp;Variation (en %) au cours&nbsp;») ainsi que des en-têtes qui titrent des parties du tableau (toutes les lignes fusionnées du type «&nbsp;a&nbsp;») Ensemble des ménages - France&nbsp;»). 
+Ci-dessous un exemple de tableau complexe (issu et adapté du site de l'INSEE). Vous y trouvez des en-têtes de colonnes fusionnées («&nbsp;Variation (en %) au cours&nbsp;») ainsi que des en-têtes qui titrent des parties du tableau (toutes les lignes fusionnées du type «&nbsp;a&nbsp;») Ensemble des ménages - France&nbsp;»).
 
 <img src="img/tableau/complexe.jpeg" alt="" />
 
 Dans ce cas de tableau complexe, pour faciliter la lecture, il serait par exemple possible de découper ce tableau en 3 tableaux distincts, chacun correspondant aux 3 sections (a, b et c).
 
-Si ce tableau reste en l'état, un résumé pertinent pourrait être&nbsp;: 
+Si ce tableau reste en l'état, un résumé pertinent pourrait être&nbsp;:
 
 «&nbsp;Répartition des ménages en France en fonction du type d'achats. On y trouve 3 grands regroupements&nbsp;:
 
 - un premier regroupement concerne l'ensemble des ménages en France&nbsp;;
 - un second regroupement concerne les ménages urbains dont le chef est ouvrier ou employé&nbsp;;
-- un troisième regroupement concerne les ménages du 1<sup>er</sup> quintile de la distribution des niveaux de vie. 
+- un troisième regroupement concerne les ménages du 1<sup>er</sup> quintile de la distribution des niveaux de vie.
 
 Pour chacun des regroupements&nbsp;:
 
@@ -74,7 +74,7 @@ Pour chacun des regroupements&nbsp;:
 
 Si votre outil ne vous permet de créer des titres de tableaux, créez un titre de contenu. Voir la [fiche 7&nbsp;: Les titres, ou le plan de la page](titres.md)
 
-## Voir ailleurs 
+## Voir ailleurs
 
 - [Vidéo sur l'accessibilité des tableaux](http://portail.unice.fr/access-key/videos/les-tableaux).
 

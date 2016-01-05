@@ -1,6 +1,6 @@
 # Quand une image vaut mille mots...
 
-On distingue deux types d'images&nbsp;: 
+On distingue deux types d'images&nbsp;:
 
 - les images porteuses d'informations (qui ont besoin d'un texte de remplacement)&nbsp;;
 - les images de décoration (qui ne doivent pas avoir de texte de remplacement).
@@ -42,7 +42,7 @@ Le texte de remplacement (ou alternative textuelle) d'une image est un texte pr�
 
 Vous pouvez rencontrer différents cas de représentation.
 
-### Des images qui contiennent du texte en image. 
+### Des images qui contiennent du texte en image.
 
 Dans ces cas, le texte de remplacement est généralement le texte présent sur l'image. Par contre, si ce texte se retrouve dans le contenu qu'elle accompagne, alors cette image est une image de décoration et ne doit pas avoir d'alternative. Par exemple, vous écrivez un article sur une manifestation à venir en indiquant la date et le lieu, et l'image représente l'affiche de la manifestation sur laquelle on peut lire le lieu et la date. Dans ce cas cette image n'apporte pas d'information supplémentaire. Lui mettre un texte de remplacement serait redondant.
 
@@ -54,7 +54,7 @@ Dans l'exemple ci-dessus, l'image contient les informations suivantes&nbsp;:
 - La date, du 12 au 18 octobre 2015, que l'on retrouve en texte dans l'introduction du contenu associé&nbsp;;
 - Un texte «&nbsp;La France fait bouger ses services publics&nbsp;» et «&nbsp;participez&nbsp;». Ces deux informations bien que ne se retrouvant pas «&nbsp;textuellement" dans le texte associé, sont des idées reprises et développées dans le contenu.
 
-### Des images qui représentent une scène ou une action, un graphique, une carte ou un schéma. 
+### Des images qui représentent une scène ou une action, un graphique, une carte ou un schéma.
 
 Dans ces cas, si l'information est essentielle à la compréhension, vous devez la décrire dans le texte de remplacement. Il est important de retenir qu'il ne faut pas décrire nécessairement en détails les images. Vous devez fournir l'information <strong>suffisante et nécessaire</strong>.
 
@@ -73,9 +73,9 @@ Le texte de remplacement n'est à utiliser que dans le cas d'images qu'il est si
 
 Lorsqu'une image demande une description détaillée, vous allez rédiger, sous cette image, un paragraphe. C'est le cas des images complexes comme un graphique de données ou une infographie.
 
-Pour permettre à un utilisateur de [lecteur d'écran](glossaire.md#lecteur-decran) de faire le lien entre votre image et sa description détaillée, vous allez procéder de la manière suivante&nbsp;: 
+Pour permettre à un utilisateur de [lecteur d'écran](glossaire.md#lecteur-decran) de faire le lien entre votre image et sa description détaillée, vous allez procéder de la manière suivante&nbsp;:
 
-- Dans le champ qui permet de définir un texte de remplacement, vous titrez votre image sans la décrire, en indiquant qu'il existe une description. Par exemple&nbsp;: plan d'accès (voir description ci-après)&nbsp;; 
+- Dans le champ qui permet de définir un texte de remplacement, vous titrez votre image sans la décrire, en indiquant qu'il existe une description. Par exemple&nbsp;: plan d'accès (voir description ci-après)&nbsp;;
 - Au début de votre description détaillée, vous allez reprendre ce titre. Par exemple&nbsp;: <i>«&nbsp;Plan d'accès (description détaillée)&nbsp;: Pour accéder à…&nbsp;»</i>.
 
 Il est important de noter, que <strong>votre description détaillée doit être correctement structurée</strong>. Par exemple, dans le cas d'un graphique complexe, une description détaillée pourrait reprendre l'information sous la forme d'un tableau ou d'une liste. Une description détaillée n'est pas nécessairement un paragraphe simplement, c'est à vous de juger de la meilleure structuration possible pour restituer l'information. Consultez les fiches concernées pour en savoir plus.
@@ -106,7 +106,7 @@ Depuis la Rue Marivaux, redescendre vers la rue Lesage, continuer tout droit pou
 
 ### Halte aux abus pour référencement
 
-C'est un frein à l'accessibilité que d'utiliser la fonction permettant de renseigner un texte de remplacement à l'image, on une infobulle, pour y insérer des mots clés ou phrases pour améliorer un référencement. 
+C'est un frein à l'accessibilité que d'utiliser la fonction permettant de renseigner un texte de remplacement à l'image, on une infobulle, pour y insérer des mots clés ou phrases pour améliorer un référencement.
 
 En effet, un utilisateur de [lecteur d'écran](glossaire.md#lecteur-decran) se verra restituer toutes ces informations. L'expérience de lecture sera alors surchargée d'éléments parasites et rendra incompréhensible le contenu du site.
 
