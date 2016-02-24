@@ -1,6 +1,6 @@
 # Fiche 9&nbsp;: Textes multilingues
 
-## L'enjeu pour l'utilisateur handicapé
+## L'enjeu pour l'utilisateur en situation de handicap
 
 Un utilisateur aveugle, malvoyant ou ayant des difficultés de lecture, parcourt un site web en utilisant une synthèse vocale. Il est tributaire de la prononciation des mots pour la compréhension. Dans le cas précis des mots en langue étrangère, certains mots ou expressions, demandent à être prononcés dans leur langue d'origine afin d'être compris. Si vous entendiez « niousletté » (« <span lang="en">newsletter</span> »), comprendriez-vous&nbsp;?
 

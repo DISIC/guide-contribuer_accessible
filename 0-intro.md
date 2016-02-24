@@ -22,7 +22,7 @@ Par souci pédagogique, nous aborderons volontairement ici uniquement les notion
 
 De même, nous ne traiterons pas dans ce guide de ce qui relève de la conception ou de la mise en page.
 
-Attention : la plupart des éditeurs de texte permettent d'insérer du code HTML pour modifier notamment l'apparence du texte. Nous vous mettons en garde contre la tentation d'aller toucher au code sans formation préalable. Sans connaissance technique, vous risquez de provoquer des erreurs qui pourraient avoir un impact sur la consultation des contenus par les personnes handicapées.
+Attention : la plupart des éditeurs de texte permettent d'insérer du code HTML pour modifier notamment l'apparence du texte. Nous vous mettons en garde contre la tentation d'aller toucher au code sans formation préalable. Sans connaissance technique, vous risquez de provoquer des erreurs qui pourraient avoir un impact sur la consultation des contenus par les personnes en situation de handicap.
 
 Par ailleurs, même si votre intention était de pallier des erreurs de code liées à la conception du site et aux paramétrages du logiciel pour rendre le contenu plus accessible, toute intervention sur le code au niveau des [contributeurs](glossaire.md#contributeur) rend une réparation difficile voire impossible du côté des développeurs par la suite.
 
@@ -32,7 +32,7 @@ Le guide a été pensé comme une série de fiches pratiques étant toutes sur l
 
 Chaque fiche est structurée de la même manière&nbsp;:
 
-* **Enjeux pour l'utilisateur handicapé**&nbsp;: cette section vient expliciter l'importance des recommandations décrites pour les utilisateurs concernés&nbsp;;
+* **Enjeux pour l'utilisateur en situation de handicap**&nbsp;: cette section vient expliciter l'importance des recommandations décrites pour les utilisateurs concernés&nbsp;;
 * **En pratique et en images**&nbsp;: il s'agit d'un mini-tutoriel vous expliquant pas à pas et de façon illustrée ce que vous devez faire pour prendre en compte l'accessibilité sur la thématique abordée dans la fiche&nbsp;;
 * **Mémo pour agir**&nbsp;: un récapitulatif sous forme de liste à puces vient clore le tutoriel, pour vous aider à retenir l'essentiel et à mettre en pratique les recommandations abordées plus haut dans la fiche.
 

@@ -5,7 +5,7 @@ Un lien permet de naviguer entre les pages d'un site ou renvoyer vers un autre s
 - son intitulé, le texte visible cliquable par les utilisateurs&nbsp;;
 - son titre (parfois nommé <i lang="en">title</i>)&nbsp;: c'est l'infobulle qui apparaît au survol du lien par la souris.
 
-## L'enjeu pour l'utilisateur handicapé
+## L'enjeu pour l'utilisateur en situation de handicap
 
 Pour un utilisateur présentant une déficience visuelle (aveugle ou malvoyant) qui utilise un [lecteur d'écran](glossaire.md#lecteur-decran) et qui n'a pas une vision globale de la page, ou qui navigue entre les liens, il est important de comprendre la fonction d'un lien.
 

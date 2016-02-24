@@ -5,7 +5,7 @@ De manière générale&nbsp;:
 - vous ne devez jamais créer de tableau, sauf pour présenter des données tabulaires&nbsp;;
 - si vous avez des données tabulaires à présenter, éviter autant que possible d'utiliser des tableaux, car même quand ils sont techniquement accessibles, ils restent complexes à appréhender.
 
-## L'enjeu pour l'utilisateur handicapé
+## L'enjeu pour l'utilisateur en situation de handicap
 
 Un tableau est une structure particulière. Un utilisateur présentant une déficience visuelle (aveugle ou malvoyant) qui utilise un [lecteur d'écran](glossaire.md#lecteur-decran) navigue différemment dans celui-ci que dans les autres contenus textuels. Si ce tableau est complexe (par exemple, certains en-têtes ne s'appliquent pas à toutes les cellules du tableau), il est d'autant plus difficile de naviguer dedans, et d'en comprendre surtout le sens.
 

@@ -2,7 +2,7 @@
 
 Les cadres permettent de faire figurer des éléments (des portions de sites web, des vidéos, un site web en entier) en provenance d'autres sites web. Ils sont généralement utilisés pour intégrer des contenus issus des réseaux sociaux, insérer des vidéos dans un contenu...
 
-## L'enjeu pour l'utilisateur handicapé
+## L'enjeu pour l'utilisateur en situation de handicap
 
 Les cadres ont un contenu que vous ne maîtrisez souvent pas (vous ne pouvez pas le modifier) et dont vous ne connaissez pas l'accessibilité. De plus, ces cadres peuvent être complexes, c'est-à-dire être très riches en contenu.
 
