@@ -2,13 +2,13 @@
 
 ## L'enjeu pour l'utilisateur en situation de handicap
 
-Structurer les contenus avec les éléments appropriés offre une expérience de navigation enrichie pour les utilisateurs de [lecteur d'écran](glossaire.md#lecteur-decran). 
+Structurer les contenus avec les éléments appropriés offre une expérience de navigation enrichie pour les utilisateurs de [lecteur d'écran](glossaire.md#lecteur-decran).
 
 Un utilisateur aveugle, malvoyant ou ayant des difficultés de lecture et qui utilise un [lecteur d'écran](glossaire.md#lecteur-decran) pour parcourir le contenu d'une page, va utiliser des raccourcis claviers pour naviguer entre les types d'éléments. Il peut naviguer de titres en titres, aller au prochain champ de formulaire, ou encore aller à la liste précédente.
 
 En plus de permettre de naviguer entre éléments, cela lui permet également de les éviter.
 
-Dans le cas d'une liste, le nombre d'éléments que contient la liste est annoncé, ainsi que le niveau de l'élément dans la liste. Ainsi, si l'utilisateur juge la liste trop longue, il pourra tout simplement l'éviter plutôt que de la parcourir en entier, il peut aussi aller au début de la liste, ou à la fin directement.  
+Dans le cas d'une liste, le nombre d'éléments que contient la liste est annoncé, ainsi que le niveau de l'élément dans la liste. Ainsi, si l'utilisateur juge la liste trop longue, il pourra tout simplement l'éviter plutôt que de la parcourir en entier, il peut aussi aller au début de la liste, ou à la fin directement.
 
 ## En pratique et en images
 
@@ -23,7 +23,7 @@ Une liste ordonnée est une liste numérotée. Une liste numérotée est requise
 
 Une liste non ordonnée s'applique dans tous les autres cas.
 
-Une liste n'est généralement recommandée que pour des listes d'éléments succincts. Pensez à une liste de courses ou une liste d'étapes d'une recette de cuisine par exemple. 
+Une liste n'est généralement recommandée que pour des listes d'éléments succincts. Pensez à une liste de courses ou une liste d'étapes d'une recette de cuisine par exemple.
 
 Ci dessous, un exemple de liste dans l'éditeur CKEditor.
 

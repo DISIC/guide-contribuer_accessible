@@ -8,9 +8,9 @@ Marquer correctement une citation permet aux utilisateurs malvoyants, aveugles o
 
 ## En pratique et en images
 
-Il existe deux types de citation&nbsp;: 
+Il existe deux types de citation&nbsp;:
 
-- les citations courtes, appelées citations en ligne&nbsp;; 
+- les citations courtes, appelées citations en ligne&nbsp;;
 - les citations longues, appelées bloc de citation.
 
 Peu d'éditeurs de texte vous permettent de créer des citations en ligne. Par contre, la majeure partie vous permet de créer des blocs de citations, la fonctionnalité associée est souvent représentée par une icône de guillemets <img src="img/citations/icone-quote.png" alt="" />.
@@ -19,13 +19,13 @@ Ci-dessous un exemple de citation en bloc dans l'éditeur de texte CKEditor.
 
 <img src="img/citations/ckeditor.png" alt="" />
 
-- Lorsqu'il s'agit d'une citation en ligne&nbsp;: 
+- Lorsqu'il s'agit d'une citation en ligne&nbsp;:
 
     - Surlignez le texte concerné.
     - Cliquez sur « Styles ».
     - Déroulez la liste pour trouver « <i lang="en">Inline Quotation</i> » (citation en ligne).
-    
-- Lorsqu'il s'agit d'un bloc de citation&nbsp;: 
+
+- Lorsqu'il s'agit d'un bloc de citation&nbsp;:
     - Surlignez le texte concerné.
     - Sélectionnez l'icône de guillemet (l'infobulle « Citation » apparaît au survol).
 

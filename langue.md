@@ -8,10 +8,10 @@ Une page web possède une langue principale de traitement (français, anglais, e
 
 Il est possible de lui indiquer de changer de langue de référence ponctuellement dans les textes, en indiquant un changement de langue.
 
-Exceptions&nbsp;: 
+Exceptions&nbsp;:
 
-- les mots de langue étrangère qui appartiennent au dictionnaire français (par exemple&nbsp;: week-end). En effet, ils font partie du dictionnaire des synthèses vocales, et sont donc prononcés correctement. 
-- les noms propres. 
+- les mots de langue étrangère qui appartiennent au dictionnaire français (par exemple&nbsp;: week-end). En effet, ils font partie du dictionnaire des synthèses vocales, et sont donc prononcés correctement.
+- les noms propres.
 
 ## En pratique et en images
 
@@ -23,7 +23,7 @@ Ci-dessous, un exemple de changement de langue dans l'éditeur de texte de SPIP.
 
 <img src="img/langues/langue-spip.png" alt="" />
 
-Dans SPIP, pour indiquer un changement de langue vous devez&nbsp;: 
+Dans SPIP, pour indiquer un changement de langue vous devez&nbsp;:
 
 - Surligner la portion de texte sur laquelle vous souhaitez indiquer un changement de langue.
 - Cliquer sur le bouton qui présente une icône de micro (au survol, l'infobulle « Changement de langue dans le texte » apparaît).
@@ -31,7 +31,7 @@ Dans SPIP, pour indiquer un changement de langue vous devez&nbsp;:
 
 ### Changements de sens de lecture
 
-Peu d'éditeurs de texte permettent d'ajouter un changement de sens de lecture sans passer par l'édition du code source. 
+Peu d'éditeurs de texte permettent d'ajouter un changement de sens de lecture sans passer par l'édition du code source.
 
 Par défaut, le sens de lecture d'une page web est de gauche à droite. Mais si vous insérez des contenus d'une langue dont le sens de lecture s'effectue de droite à gauche, tout comme le changement de langue, vous devez indiquer cette particularité.
 

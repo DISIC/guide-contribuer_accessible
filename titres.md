@@ -24,10 +24,10 @@ Ci-dessous un exemple de définition d'un titre dans l'éditeur de texte <span l
 
 <img src="img/titres/ckeditor.png" alt="" />
 
-Pour définir un titre, vous devez&nbsp;: 
+Pour définir un titre, vous devez&nbsp;:
 
 - Surligner le texte que vous souhaitez transformer en titre.
-- Cliquer sur « Normal » (parfois c'est une simple liste déroulante qui est à disposition). 
+- Cliquer sur « Normal » (parfois c'est une simple liste déroulante qui est à disposition).
 - Choisir le niveau de titre voulu.
 
 Vous ne devez pas utiliser des titres sur des éléments textes qui n'en sont pas pour une question de mise en forme.
@@ -36,7 +36,7 @@ Vous ne devez pas utiliser des titres sur des éléments textes qui n'en sont pa
 
 L'extension <span lang="en">Firefox</span>, <a href="https://addons.mozilla.org/fr/firefox/addon/headingsmap/"><span lang="en">HeadingsMap</span></a>, vous permet d'un coup d'oeil de repérer les erreurs de titrage dans votre contenu. Pour vous aider, vous pouvez consulter l'<a href="https://support.mozilla.org/fr/kb/trouver-installer-modules-firefox">aide sur l'installation d'extension sur <span lang="en">Firefox</span></a>.
 
-Une fois l'extension installée, placez-vous sur la page dont vous souhaitez tester les titres, faites clic droit et sélectionnez <span lang="en">HeadingsMap</span>. Un volet s'ouvre sur la gauche de la page. Placez-vous sur l'onglet <i lang="en">Headings</i>. Vous avez alors une vision rapide de votre hiérarchie : l'imbrication des différentes parties et les niveaux de titres. Si une erreur est détectée, elle est surlignée en rouge. 
+Une fois l'extension installée, placez-vous sur la page dont vous souhaitez tester les titres, faites clic droit et sélectionnez <span lang="en">HeadingsMap</span>. Un volet s'ouvre sur la gauche de la page. Placez-vous sur l'onglet <i lang="en">Headings</i>. Vous avez alors une vision rapide de votre hiérarchie : l'imbrication des différentes parties et les niveaux de titres. Si une erreur est détectée, elle est surlignée en rouge.
 
 Dans l'exemple ci-dessous, la structure de gauche est correcte. La structure de droite quant à elle contient plusieurs erreurs. Toute la hiérarchie est surlignée en rouge. En effet, on constate que le plan démarre avec un titre de niveau 2 et qu'il manque un titre de niveau 1 pour avoir une hiérarchie cohérente.
 

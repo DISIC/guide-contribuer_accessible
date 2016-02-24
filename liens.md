@@ -1,6 +1,6 @@
 # Fiche 6&nbsp;: Cr&#233;er du lien sans perdre son chemin
 
-Un lien permet de naviguer entre les pages d'un site ou renvoyer vers un autre site. Un lien est défini par deux éléments importants&nbsp;: 
+Un lien permet de naviguer entre les pages d'un site ou renvoyer vers un autre site. Un lien est défini par deux éléments importants&nbsp;:
 
 - son intitulé, le texte visible cliquable par les utilisateurs&nbsp;;
 - son titre (parfois nommé <i lang="en">title</i>)&nbsp;: c'est l'infobulle qui apparaît au survol du lien par la souris.
@@ -11,7 +11,7 @@ Pour un utilisateur présentant une déficience visuelle (aveugle ou malvoyant) 
 
 Pour des utilisateurs présentant des déficiences cognitives, des liens peu explicites n'incitent pas à l'action. L'utilisateur ne sait pas, ne comprend pas vers quelle page il se dirige si l'intitulé du lien ne l'explique pas suffisamment.
 
-Lorsque les liens sont constitués par des images seules, c'est le texte alternatif de l'image qui constitue l'intitulé du lien. À ce moment, le texte alternatif à renseigner n'est plus la description de l'image mais la destination du lien. Si l'image n'a pas d'alternative, le lien est alors un lien vide. Un utilisateur qui navigue à la voix ne pourra par exemple par cliquer sur ce lien, ne sachant pas comment les nommer. 
+Lorsque les liens sont constitués par des images seules, c'est le texte alternatif de l'image qui constitue l'intitulé du lien. À ce moment, le texte alternatif à renseigner n'est plus la description de l'image mais la destination du lien. Si l'image n'a pas d'alternative, le lien est alors un lien vide. Un utilisateur qui navigue à la voix ne pourra par exemple par cliquer sur ce lien, ne sachant pas comment les nommer.
 
 ## En pratique et en images
 
@@ -25,9 +25,9 @@ Ci-dessous un exemple d'insertion de lien dans l'éditeur de texte de <span lang
 
 Pour définir l'intitulé de votre lien, sélectionnez la portion de texte nécessaire pour que le lien soit suffisamment explicite.
 
-Dans ce cas précis, on voit un champ «&nbsp;<i lang="en">Title</i>&nbsp;», qui va permettre de définir, si nécessaire, un titre (une infobulle). Si vous décidez de créer une infobulle, vous devez vous assurer&nbsp;: 
+Dans ce cas précis, on voit un champ «&nbsp;<i lang="en">Title</i>&nbsp;», qui va permettre de définir, si nécessaire, un titre (une infobulle). Si vous décidez de créer une infobulle, vous devez vous assurer&nbsp;:
 
-- que l'intitulé du lien ne peut pas être rendu explicite lui-même&nbsp;; 
+- que l'intitulé du lien ne peut pas être rendu explicite lui-même&nbsp;;
 - que l'infobulle reprend au moins l'intitulé du lien (par exemple ici, l'infobulle doit reprendre au moins «&nbsp;Page d'aide&nbsp;»).
 
 ### Ouverture dans une nouvelle fenêtre
@@ -49,7 +49,7 @@ Dans <span lang="en">Tiny</span>MCE, il faut éditer les propriétés du lien&nb
 
 Dans la charte graphique du site a été définie une apparence pour les liens (couleur, soulignement, etc.). Vous ne devez pas modifier cette apparence, même si votre éditeur de texte vous le permet, **au risque de créer une rupture dans l'expérience utilisateur et de créer des problèmes de contraste insuffisant pouvant nuire à la lisibilité.**
 
-En effet, les liens doivent être distingués visuellement du reste du texte environnant selon certaines recommandations. Cette apparence a été définie au moment de la conception du site et le développeur a intégré les recommandations pour tous les liens. 
+En effet, les liens doivent être distingués visuellement du reste du texte environnant selon certaines recommandations. Cette apparence a été définie au moment de la conception du site et le développeur a intégré les recommandations pour tous les liens.
 
 Un guide complémentaire destiné à la phase de conception traitera notamment de ce sujet. Il sera mis à disposition ultérieurement lorsqu'il sera rédigé.
 

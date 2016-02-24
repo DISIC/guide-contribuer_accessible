@@ -16,7 +16,7 @@ Une autre problématique liée à la couleur concerne les contrastes. Pour un ut
 
 Les contrastes de couleurs concernent le rapport de contraste entre la couleur d'écriture d'un texte et sa couleur de fond.
 
-Ces contrastes concernent&nbsp;: 
+Ces contrastes concernent&nbsp;:
 
 - les textes que vous saisissez dans l'éditeur&nbsp;;
 - les textes présents dans les images&nbsp;;

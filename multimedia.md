@@ -11,13 +11,13 @@ Les contenus multimédias peuvent véhiculer de l'information par les images (ac
 
 Souvent des textes sont incrustés dans les vidéos, pour présenter un orateur, donner une date... et ne sont pas repris dans le  discours. Les utilisateurs qui ont une déficience visuelle (aveugles ou malvoyants) qui ne peuvent pas appréhender les images, ou celles qui ont des difficultés à comprendre l'information visuelle présente à l'écran pour des raisons cognitives, auront besoin que ces informations visuelles leur soit décrites. Il faut pouvoir, par un autre moyen que l'image, restituer l'information à l'utilisateur.
 
-Les utilisateurs qui présentent une déficience auditive, sourds et malentendants, ne pouvant pas ou difficilement percevoir le contenu audio des documents multimédia, auront besoin d'une traduction en langue des signes ou de sous-titres pour comprendre le contenu audio du contenu multimédia. 
+Les utilisateurs qui présentent une déficience auditive, sourds et malentendants, ne pouvant pas ou difficilement percevoir le contenu audio des documents multimédia, auront besoin d'une traduction en langue des signes ou de sous-titres pour comprendre le contenu audio du contenu multimédia.
 
 
 ## En pratique et en images
 
 
-### Donner un titre 
+### Donner un titre
 
 Lorsque vous insérez du contenu multimédia, vous devez le faire précéder d'un titre. Ce titre peut reprendre celui de l'élément lui-même s'il en possède un. Il doit permettre de comprendre quelle est l'information présentée dans ce contenu. Tout élément multimédia doit être considéré comme un contenu à part entière, et donc structuré par un titre. Nous vous renvoyons à la fiche [Les titres, ou le plan de la page](titres.md) pour la mise en place de ce titre.
 
@@ -27,7 +27,7 @@ Lorsque vous insérez du contenu multimédia, vous devez le faire précéder d'u
 
 Il ne faut pas confondre le sous-titrage pour la traduction (<i lang="en">subtitles</i>) et le sous-titrage pour sourds et malentendants (<i lang="en">close captions</i>). Ces deux types de sous-titrage poursuivent des buts différents. Dans le cadre du RGAA 3.0, les sous-titres doivent être dans la langue du média concerné. Si la vidéo est en anglais par exemple, les sous-titres doivent être en anglais.
 
-Les sous-titres ne concernent que les vidéos. Ils doivent reprendre toutes les informations de la vidéo&nbsp;: les dialogues de personnages, la voix-off ou même un bruit qui donne un sens et qui permet de comprendre une action. 
+Les sous-titres ne concernent que les vidéos. Ils doivent reprendre toutes les informations de la vidéo&nbsp;: les dialogues de personnages, la voix-off ou même un bruit qui donne un sens et qui permet de comprendre une action.
 
 Ils doivent êtres correctement synchronisés et ils doivent être activables et désactivables depuis le lecteur. Si le lecteur ne propose pas cette fonctionnalité, alors il est possible de mettre 2 vidéos à disposition&nbsp;: une vidéo sans les sous-titres et une vidéo avec les sous-titres. Chacune peut être placée sur une page différente, l'important est que l'utilisateur comprenne aisément qu'il existe une version avec les sous-titres. Le plus simple sera alors de créer un lien avant la vidéo sans les sous-titres qui mène vers la vidéo avec les sous-titres et au-dessus de la vidéo avec les sous-titres, créer un lien qui ramène vers la vidéo sans les sous-titres.
 
@@ -39,7 +39,7 @@ Ci dessous, un exemple de vidéo avec des sous-titres. [Retrouvez cet exemple su
 
 La transcription textuelle concerne les vidéos et les fichiers audios seuls.
 
-Une transcription textuelle est la retranscription en texte de tous les contenus audibles et informatifs de la vidéo. Elle reprend&nbsp;: 
+Une transcription textuelle est la retranscription en texte de tous les contenus audibles et informatifs de la vidéo. Elle reprend&nbsp;:
 
 - la totalité de ce qui y est exprimé oralement ;
 - toutes les informations descriptives nécessaires à une compréhension équivalente de l'action.
@@ -59,7 +59,7 @@ Ci-dessous, un exemple de transcription textuelle située directement sous la vi
 
 #### Audiodescription
 
-L'audiodescription ne concerne que les vidéos. 
+L'audiodescription ne concerne que les vidéos.
 
 Une audiodescription est une narration ajoutée à la piste sonore de la vidéo pour décrire les détails visuels importants qui ne peuvent être compris à partir de la piste sonore principale seulement.
 
@@ -83,7 +83,7 @@ Vous devez éviter au maximum de lancer les contenus multimédias qui comportent
 
 ### Contenus multimédia (hors vidéos et fichiers sons)
 
-En dehors des vidéos et fichiers sons, on parle de contenu multimédia non temporel. Il s'agit d'animation ou d'activité interactive réalisée à l'aide d'une technologie qui nécessite une extension. La plus emblématique est la technologie Flash. 
+En dehors des vidéos et fichiers sons, on parle de contenu multimédia non temporel. Il s'agit d'animation ou d'activité interactive réalisée à l'aide d'une technologie qui nécessite une extension. La plus emblématique est la technologie Flash.
 
 [Voir un exemple d'activité interactive en Flash sur le site du Centre collégial de développement de matériel didactique](http://www.ccdmd.qc.ca/fr/exercices_interactifs/index.cgi?id=1028&action=animer)
 
@@ -99,7 +99,7 @@ Bien que vous ne soyez pas en capacité d'évaluer complètement l'accessibilit�
 
 #### Présence des contrôles minimums
 
-Un lecteur audio ou vidéo doit posséder au minimum 5 contrôles&nbsp;: 
+Un lecteur audio ou vidéo doit posséder au minimum 5 contrôles&nbsp;:
 
 - un bouton de  lecture et de pause&nbsp;;
 - un bouton d'arrêt&nbsp;;
@@ -161,7 +161,7 @@ Les sous-titres ne sont pas forcément une alternative suffisante pour les perso
 ### Note concernant les niveaux de conformité
 Selon le niveau de conformité au RGAA 3.0, les recommandations en termes d'accessibilité ne sont pas les mêmes pour les éléments multimédias de type vidéo ou audio. Ci-dessous nous résumons brièvement les exigences concernant cette problématique. Ce résumé ne remplace pas les recommandations énoncées dans le référentiel, auquel nous vous renvoyons pour plus de détails&nbsp;: [critères de la thématique multimédia du RGAA 3.0](http://references.modernisation.gouv.fr/referentiel-technique-0#title-124-multimdia).
 
-- Niveau A&nbsp;: 
+- Niveau A&nbsp;:
     - une transcription textuelle ou une audiodescription&nbsp;;
     - des sous-titres synchronisés.
 - Niveau AA&nbsp;:
@@ -174,7 +174,7 @@ Selon le niveau de conformité au RGAA 3.0, les recommandations en termes d'acce
     - une audiodescription&nbsp;;
     - une audiodescription étendue synchronisée&nbsp;;
     - une interprétation en langue des signes.
-    
+
 ### Sommaire du guide «&nbsp;Contribuer sur le Web de manière accessible&nbsp;»
 
 * [Introduction](0-intro.md)
