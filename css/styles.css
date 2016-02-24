@@ -134,7 +134,14 @@ h1 {
   font-family: AvenirLTStd-Heavy;
   text-transform: uppercase;
   margin:0;
+}
 
+h1.fiche-title{
+	color:#2868C9;
+  text-transform: initial;
+  font-size: 150%;
+  padding-bottom:2em;
+  padding-top:1em;
 }
 
 h2 {
@@ -293,53 +300,84 @@ main ul li {
 	margin-right: 5px;
 }
 .skip-links li a {
-    display: block;
-    background: #F2F2F2 none repeat scroll 0% 0%;
-    color: #014F8F;
-    font-size: 70%;
-    font-weight: bold;
-    text-decoration: none;
-    padding: 0px 5px;
+  display: block;
+  background: #F2F2F2 none repeat scroll 0% 0%;
+  color: #014F8F;
+  font-size: 70%;
+  font-weight: bold;
+  text-decoration: none;
+  padding: 0px 5px;
 }
 
 .skip-links  a:hover,
 .skip-links  a:focus {
     background: #fff;
 }
-@media screen and (min-width:60em){
-	.github-link {
-		  position: absolute;
-		  right: 0px;
-		  top: 0px;
-	}
-	.github-link p {
-  	margin: 0px;
-	}
+
+.github-link  a[href*="github.com"]:before{
+	content:url("github.svg");
+	display:inline-block;
+	width:2em;
 }
 
+.github-link  a[href*=".pdf"]:before{
+	content:url("download.svg");
+	display:inline-block;
+	width:2em;
+}
 
 .github-link a {
-  display: inline-block;
+  display: block;
   background: #FFF none repeat scroll 0% 0%;
   color: #000;
   text-align: center;
   text-decoration: none;
-  padding: 10px 20px;
-  font-size: 0.8em;
+  padding: 5px 15px;
+  font-size: 0.75em;
   font-weight: bold;
-  border-radius: 5px;
   box-shadow: 0px 0px 5px #333;
+  border-radius:5px;
+	margin-bottom:10px;
+}
 
+@media screen and (min-width:50em){
+	.github-link {
+		  position: absolute;
+		  right: 0px;
+		  top: 5em;
+	}
+	.github-link p {
+  	margin: 0px;
+	}
+	.github-link a{
+		width:100%;
+		margin-right:0;
+		display:block;
+		margin-bottom:10px;
+	}
+	.github-link a {
+		border-radius: 5px 0px 0px 5px;
+	}
+	.github-link a:last-child {
+		border-radius: 5px 0px 0px 5px;
+	}
+}
+
+@media screen and (min-width:60em){
+	.github-link {
+		  top: 0px;
+	}
+	.github-link a {
+		border-radius: 0px 0px 0px 5px;
+	}
+	.github-link a:last-child {
+		border-radius: 5px 0px 0px 5px;
+	}
 }
 
 .github-link a:hover,
 .github-link a:focus {
     background: #F5F5F5;
-}
-@media screen and (min-width:60em){
-	.github-link a {
-		border-radius: 0px 0px 0px 5px;
-	}
 }
 
 .clear:after{
@@ -372,10 +410,10 @@ main ul li {
 
 #footer-block{
 	font-size:0.8em;
-	background:#fefefe;
+	background:#fafafa;
 	margin-top:2em;
 	padding:2em;
-	border:1px solid #eee
+	border:1px solid #ddd
 }
 
 table{
@@ -430,7 +468,7 @@ footer h2{
 
 footer p{
 	float:left;
-	width:80%
+	width:80%;
 }
 
 footer p.logo-smgap{
@@ -438,7 +476,7 @@ footer p.logo-smgap{
 }
 
 .gp-sommaire{
-	
+	padding-bottom:0.5em;
 }
 
 #btnSommaire{
@@ -453,8 +491,16 @@ footer p.logo-smgap{
 }
 #btnSommaire:hover,
 #btnSommaire:focus{
-	background:#f2f2f2;
+	background:#eee;
 }
+
+#btnSommaire:before{
+	content:"▼ ";
+}
+#btnSommaire.open:before{
+	content:"▲ ";
+}
+
 .sommaire{
 	background:#fff;
 	padding:0;
@@ -465,18 +511,24 @@ footer p.logo-smgap{
 .sommaire li{
 	list-style:none;
 }
+
 .sommaire li a{
 	padding:3px 20px;
 	display:block;
 	text-decoration:none;
 	border-bottom:1px solid #2868C9;
 }
+
 .sommaire li:last-child a{
 	border-bottom:none;
 }
+
 .sommaire li a:hover,
-.sommaire li a:focus{
-	background:#f2f2f2;
+.sommaire li a:focus,
+a.pdfdown:hover,
+a.pdfdown:focus{
+	background:#999;
+	color:#fff
 }
 .sommaire.is-hidden{
 	display:none;
