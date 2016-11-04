@@ -38,7 +38,7 @@ Ci dessous, un exemple de liste dans l'éditeur CKEditor.
 
 - **La mise en forme de mes listes ne peut pas être modifiée&nbsp;: faux&nbsp;!** Tous les éléments peuvent avoir une mise en forme différente. La structuration n'est pas un frein. Renseignez-vous auprès de la personne en charge de l'intégration graphique pour lui demander des mises en forme différentes pour vos listes.
 
-## Voir aussi...
+## Voir aussi…
 
 - Quand le contenu des éléments de listes est important, il est préférable de réaliser des paragraphes titrés. Voir la [fiche 7&nbsp;: Les titres, ou le plan de la page](titres.md)
 
