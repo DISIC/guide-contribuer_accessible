@@ -48,7 +48,7 @@ Dans l'exemple ci-dessous, la structure de gauche est correcte. La structure de 
 - J'ai mis ce texte en gras. Est-ce que ça ne devrait pas plutôt être un titre ?
 - J'ai un texte très long. Ne serait-il pas possible de le diviser en sous-parties et leur donner à chacune un titre ?
 
-## Correspondances RGAA 3.0
+## Correspondances RGAA 3
 
 - Critère 9.1 [A]
 

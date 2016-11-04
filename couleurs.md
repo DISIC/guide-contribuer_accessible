@@ -83,7 +83,7 @@ Il est important que cette information ne soit pas uniquement présente dans le 
 - [Créer des états de boutons accessibles pour les utilisateurs ne percevant pas la couleur (ressources en anglais)](http://uxmovement.com/buttons/making-selected-button-states-clear-for-color-blind-users).
 
 
-## Correspondances RGAA 3.0
+## Correspondances RGAA 3
 
 - Critère 3.1 [A]
 - Critère 3.2 [A]

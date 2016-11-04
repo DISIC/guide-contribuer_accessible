@@ -51,7 +51,7 @@ Il s'agit simplement de créer une page dédiée qui reprenne le contenu de ce d
 - [AccessODF - Extension d'accessibilité pour les logiciels OpenOffice et LibreOffice](http://extensions.libreoffice.org/extension-center/accessodf)&nbsp;;
 - [PDFs: <i lang="en">A Digital Content Detour</i> - Un article sur les problèmes d'accessibilité des documents PDF (ressource en anglais)](http://www.digitalgov.gov/2015/07/23/pdfs-a-digital-content-detour/).
 
-## Correspondances RGAA 3.0
+## Correspondances RGAA 3
 
 - Critère 13.6 [A]
 - Critère 13.7 [A]

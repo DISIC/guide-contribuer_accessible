@@ -19,11 +19,11 @@ Exceptions&nbsp;:
 
 Peu d'éditeurs de texte permettent d'ajouter un changement de langue sans passer par l'édition du code source.
 
-Ci-dessous, un exemple de changement de langue dans l'éditeur de texte de SPIP.
+Ci-dessous, un exemple de changement de langue dans l'éditeur de texte de SPIP avec l'[extension Bouton Changement de langue pour le Porte-Plume](http://contrib.spip.net/Bouton-Changement-de-langue-pour-le-Porte-Plume).
 
 <img src="img/langues/langue-spip.png" alt="" />
 
-Dans SPIP, pour indiquer un changement de langue vous devez&nbsp;:
+Dans cet exemple, pour indiquer un changement de langue vous devez&nbsp;:
 
 - Surligner la portion de texte sur laquelle vous souhaitez indiquer un changement de langue.
 - Cliquer sur le bouton qui présente une icône de micro (au survol, l'infobulle « Changement de langue dans le texte » apparaît).
@@ -50,7 +50,7 @@ Dans le menu «&nbsp;Styles de mise en page&nbsp;», dans la liste déroulante, 
 
 - Si je prononce ce mot étranger «&nbsp;à la française&nbsp;», est-ce que je le comprends&nbsp;?
 
-## Correspondances RGAA 3.0
+## Correspondances RGAA 3
 
 - Critère 8.7 [AA]
 - Critère 8.8 [AA]

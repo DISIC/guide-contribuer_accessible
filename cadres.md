@@ -1,6 +1,6 @@
 # Fiche 3&nbsp;: Embarquer des contenus d'autres sites sur ses pages
 
-Les cadres permettent de faire figurer des éléments (des portions de sites web, des vidéos, un site web en entier) en provenance d'autres sites web. Ils sont généralement utilisés pour intégrer des contenus issus des réseaux sociaux, insérer des vidéos dans un contenu...
+Les cadres permettent de faire figurer des éléments (des portions de sites web, des vidéos, un site web en entier) en provenance d'autres sites web. Ils sont généralement utilisés pour intégrer des contenus issus des réseaux sociaux, insérer des vidéos dans un contenu…
 
 ## L'enjeu pour l'utilisateur en situation de handicap
 
@@ -20,7 +20,7 @@ L'insertion d'un cadre passe nécessairement par l'écriture de code informatiqu
 - Si le contenu extérieur embarqué est essentiel, est-il accessible&nbsp;?
 - Y a-t-il un moyen de mettre un titre à ce contenu tiers embarqué (demander au service informatique)&nbsp;?
 
-## Correspondances RGAA 3.0
+## Correspondances RGAA 3
 
 - Critère 2.1 [A]
 - Critère 2.2 [A]

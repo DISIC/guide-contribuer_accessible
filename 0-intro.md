@@ -80,10 +80,6 @@ Thématiques du RGAA 3 abordées à travers ces fiches&nbsp;:
 * [Présentation de l'information](http://references.modernisation.gouv.fr/referentiel-technique-0#title-1210-prsentation-de-linformation)&nbsp;;
 * [Consultation](http://references.modernisation.gouv.fr/referentiel-technique-0#title-1213-consultation).
 
-### Guides connexes
-
-Guide la conception web accessible (en cours de rédaction).
-
 ### Ressources externes et références
 
 - [Comprendre les WCAG : description de cas utilisateurs et d'impacts par type de handicap](http://www.w3.org/Translations/NOTE-UNDERSTANDING-WCAG20-fr/Overview.html#contents)&nbsp;;

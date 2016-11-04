@@ -33,7 +33,7 @@ Ci-dessous un exemple de citation en bloc dans l'éditeur de texte CKEditor.
 
 - J'ai mis des guillemets autour de ce texte, est-ce qu'il ne s'agirait pas d'une citation&nbsp;?
 
-## Correspondances RGAA 3.0
+## Correspondances RGAA 3
 
 - Critère 9.6 [AA]
 

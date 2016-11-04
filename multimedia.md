@@ -136,7 +136,7 @@ Les sous-titres ne sont pas forcément une alternative suffisante pour les perso
 
 
 
-## Correspondances RGAA 3.0
+## Correspondances RGAA 3
 
 - Critère 4.1 [A]
 - Critère 4.2 [A]

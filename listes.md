@@ -46,7 +46,7 @@ Ci dessous, un exemple de liste dans l'éditeur CKEditor.
 
 - [Bonnes pratiques pour la structuration des documents (Sur le site de l'Unité ingénierie des contenus et savoirs)](http://ics.utc.fr/capa/DOCS/SP4/Tuto/02/co/02-CAPA_BonnesPratiques_8.html)
 
-## Correspondances RGAA 3.0
+## Correspondances RGAA 3
 
 - Critère 9.3 [A]
 

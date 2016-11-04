@@ -49,7 +49,7 @@ Pour tous ces termes qui nécessitent une définition, il est également possibl
 
 Rapprochez-vous de votre service informatique pour évaluer cette possibilité.
 
-## Correspondances RGAA 3.0
+## Correspondances RGAA 3
 
 - Critère 9.4 [AAA]
 - Critère 9.5 [AAA]

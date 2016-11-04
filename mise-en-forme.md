@@ -42,7 +42,7 @@ Il est préférable d'avoir un interlignage suffisamment large. On demande à ce
 
 Il est très rare de trouver un éditeur de texte qui vous permette de définir l'interlignage. Ici encore, rapprochez-vous du développeur de votre site pour cette problématique.
 
-## Correspondances RGAA 3.0
+## Correspondances RGAA 3
 
 - Critère 10.9 [AAA]
 - Critère 10.12 [AAA]

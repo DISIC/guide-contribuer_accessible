@@ -1,4 +1,4 @@
-# Quand une image vaut mille mots...
+# Quand une image vaut mille mots…
 
 On distingue deux types d'images&nbsp;:
 
@@ -11,7 +11,7 @@ Les images véhiculent parfois une information non textuelle. Cette information,
 
 Fournir une alternative est indispensable pour les utilisateurs qui ne perçoivent pas, ou perçoivent mal, le contenu visuel. C'est le cas des personnes aveugles ou malvoyantes. Un [lecteur d'écran](glossaire.md#lecteur-decran) va pouvoir accéder à cette alternative et le restituer à l'utilisateur.
 
-De même, pour les personnes qui présentent des difficultés de compréhension face à certaines représentations visuelles, (iconographie, peintures, représentations multi-dimensionnelles, graphiques ...), une alternative peut aider à en comprendre le sens ou à en extraire l'information importante.
+De même, pour les personnes qui présentent des difficultés de compréhension face à certaines représentations visuelles, (iconographie, peintures, représentations multi-dimensionnelles, graphiques…), une alternative peut aider à en comprendre le sens ou à en extraire l'information importante.
 
 Pour toutes ces raisons, il est essentiel de traduire de manière textuelle l'information nécessaire et suffisante qu'apportent les images.
 
@@ -114,12 +114,12 @@ En effet, un utilisateur de [lecteur d'écran](glossaire.md#lecteur-decran) se v
 
 Toutes les images n'ont pas besoin d'un texte de remplacement. Si l'image est une décoration (elle n'apporte aucune information essentielle au contenu), elle ne doit pas avoir de texte de remplacement. Pour la même raison qu'évoquée au-dessus, cela alourdit la restitution du contenu pour un utilisateur de [lecteur d'écran](glossaire.md#lecteur-decran), pour un gain en information nul.
 
-### L'alternative de l'image ne doit pas être utilisée pour mentionner les crédits (auteur, date etc...) de l'image
+### L'alternative de l'image ne doit pas être utilisée pour mentionner les crédits (auteur, date, etc.) de l'image
 
 Si vous créditez une image, vous ne devez pas utiliser le texte de remplacement de l'image. Tout d'abord, cela signifie que tout le monde n'a pas accès à cette information. Ensuite, le texte de remplacement sert à décrire l'image, et non pas à l'attribuer. Dans le cas précis des crédits, la méthode décrite dans la description détaillée est tout à fait appropriée.
 
 
-## Voir aussi...
+## Voir aussi…
 
 - Quand une image est aussi un lien, la fonction de lien l'emporte sur la nature de l'image. Voir la [fiche 6&nbsp;: Créer du lien sans perdre son chemin](liens.md)&nbsp;;
 - Attention aux contrastes et à l'information véhiculée par la couleur. Voir la [fiche 2&nbsp;: Les couleurs](#couleurs.md).
@@ -129,7 +129,7 @@ Si vous créditez une image, vous ne devez pas utiliser le texte de remplacement
 - [Bonnes pratiques pour l'accessibilité des images (Sur le site de l'Unité ingénierie des contenus et savoirs)](http://ics.utc.fr/capa/DOCS/SP4/Tuto/02/co/02-CAPA_BonnesPratiques_3.html)
 - [Exemples et contre exemples d'accessibilité des images (Sur le site de l'Unité ingénierie des contenus et savoirs)](http://ics.utc.fr/capa/DOCS/SP4/Tuto/01/co/01-CAPA_Sensibilisation_3.html)
 
-## Correspondances RGAA 3.0
+## Correspondances RGAA 3
 
 - Critère 1.2 [A]
 - Critère 1.3 [A]

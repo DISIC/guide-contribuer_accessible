@@ -51,15 +51,13 @@ Dans la charte graphique du site a été définie une apparence pour les liens (
 
 En effet, les liens doivent être distingués visuellement du reste du texte environnant selon certaines recommandations. Cette apparence a été définie au moment de la conception du site et le développeur a intégré les recommandations pour tous les liens.
 
-Un guide complémentaire destiné à la phase de conception traitera notamment de ce sujet. Il sera mis à disposition ultérieurement lorsqu'il sera rédigé.
-
 ## Mémo pour agir
 
 - Si je regarde le texte de mes liens, est-ce que je comprends où je vais en cliquant dessus&nbsp;?
 - Évitez au maximum les intitulés génériques du type&nbsp;: cliquez-ici, ici, lire la suite, visitez cette page, télécharger…
 - Deux de mes liens ont des intitulés identiques. Renvoient-ils bien vers la même page&nbsp;?
 
-## Voir aussi...
+## Voir aussi…
 
 - Pour les images liens, renseignez un texte de remplacement à l'image pour définir l'intitulé du lien. Voir la [fiche 1&nbsp;: Quand une image vaut mille mots](images.md)
 - Pour une explication plus détaillée des contrastes de couleurs, nous vous renvoyons à la [fiche 2&nbsp;: Les couleurs](couleurs.md).
@@ -68,7 +66,7 @@ Un guide complémentaire destiné à la phase de conception traitera notamment d
 
 - [Bonnes pratiques pour l'accessibilité des liens (Sur le site de l'Unité ingénierie des contenus et savoirs)](http://ics.utc.fr/capa/DOCS/SP4/Tuto/02/co/02-CAPA_BonnesPratiques_7.html)
 
-## Correspondances RGAA 3.0
+## Correspondances RGAA 3
 
 - Critère 6.1 [A]
 - Critère 6.2 [A]

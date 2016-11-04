@@ -78,7 +78,7 @@ Si votre outil ne vous permet de créer des titres de tableaux, créez un titre 
 
 - [Vidéo sur l'accessibilité des tableaux](http://portail.unice.fr/access-key/videos/les-tableaux).
 
-## Correspondances RGAA 3.0
+## Correspondances RGAA 3
 
 - Critère 5.1 [A]
 - Critère 5.2 [A]
