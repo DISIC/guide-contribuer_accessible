@@ -44,4 +44,4 @@ Finally, you will always find at the bottom of the sheet:
 * Presentation of information
 * Consultation
 
-This guide is written in markdown. You will find in this [wikipedia article](https://en.wikipedia.org/wiki/Markdown) details about this language. Finally, it can also be [read online](http://disic.github.io/guide-contribuer_accessible/).
+This guide is written in markdown. You will find in this [wikipedia article](https://en.wikipedia.org/wiki/Markdown) details about this language. Finally, it can also be [read online](https://github.com/DISIC/guide-contribuer_accessible/blob/english/0-intro.md).
