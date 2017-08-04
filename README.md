@@ -40,4 +40,4 @@ Enfin, vous retrouverez à chaque fois au bas de la fiche :
 * Présentation de l'information
 * Consultation
 
-Ce guide est rédigé au format markdown Vous trouverez sur ce [lien wikipedia](https://fr.wikipedia.org/wiki/Markdown) des précisions sur ce langage. Enfin, il peut également être [consulté en ligne](http://disic.github.io/guide-contribuer_accessible/).
+Ce guide est rédigé au format markdown Vous trouverez sur ce [lien wikipedia](https://fr.wikipedia.org/wiki/Markdown) des précisions sur ce langage. Une [traduction anglaise](https://github.com/DISIC/guide-contribuer_accessible/tree/english) est également disponible. Enfin, il peut également être [consulté en ligne](http://disic.github.io/guide-contribuer_accessible/).
