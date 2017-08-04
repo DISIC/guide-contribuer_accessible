@@ -1,83 +1,86 @@
-# Fiche 13&nbsp;: Abréviations, mots complexes et glossaire
+# Sheet 13: Abbreviations, complex words and glossary
 
-**Toutes les recommandations de cette fiche étant souvent difficiles à mettre en &oelig;uvre, elles ne relèvent pas du niveau minimum légal français. Il s'agit de recommandations de niveau AAA qui permettent l'accès à l'information à certains utilisateurs. Elles restent malgré cela des recommandations importantes voire indispensables pour l'accès à l'information de certains utilisateurs.**
+**Since all the recommendations in this sheet are often difficult to implement, they do not fall under the minimum level required by French law. These are AAA-level recommendations that allow access to information to certain users. In spite of this, they remain important and even essential recommendations for access to information for certain users.**
 
-## L'enjeu pour l'utilisateur en situation de handicap
+## Issues for users with disabilities
 
-Les abréviations et mots complexes sont une problématique qui concernent en priorité les utilisateurs présentant des déficiences cognitives, les utilisateurs qui ont un niveau d'éducation inférieur à la classe de 6<sup>e</sup> ou encore certains utilisateurs sourds qui lisent très peu le langage écrit au profit de la langue des signes.
+Abbreviations and complex words are an issue that primarily concern users with cognitive impairments, users who have a level of education below the 6th grade, or some deaf users who are more versed in the sign language than in the written language.
 
-Utiliser des termes complexes sans les définir, sans fournir d'aide pour en comprendre le sens, employer des expressions figuratives, etc. met en défaut ces utilisateurs et les empêche de comprendre les textes et d'accéder à l'information.
+Using complex terms without defining them, without providing help to understand their meaning, using figurative expressions, and so on, create issues for these users and prevents them from understanding the texts and accessing the information.
 
-## En pratique
+## In practice
 
-### Prononciation des mots
+### Pronunciation of words
 
-Certains mots ne peuvent pas être compris si nous n'en connaissons pas la prononciation. Certains utilisateurs, qui présentent des déficiences cognitives ou qui utilisent une synthèse vocale, ont besoin de ces prononciations.
+Some words can't be understood if the pronunciation is not known. Some users, who have cognitive impairments or use speech synthesis, need these pronunciations.
 
-L'exemple typique est &nbsp;: «&nbsp;Les poules du couvent couvent.&nbsp;». Une synthèse vocale va lire à l'utilisateur «&nbsp;Les poules du couve couve&nbsp;». Cette phrase est alors incompréhensible.
+An example is "I can lead you to the lead mine". A speech synthesizer might read both "lead" words with the same pronunciation, which will be confusing for the user. This sentence is then difficult to understand.
 
-Le plus simple, pour rendre cette prononciation accessible à tous est d'indiquer entre crochets, immédiatement après le mot concerné, la prononciation du mot : «&nbsp;Les poules du couvent [couvant] couvent.&nbsp;».
+The easiest way to make this pronunciation accessible to all is to indicate in square brackets, immediately after the word concerned, the pronunciation of the word: "I can lead you to the lead [led] mine".
 
-### Abréviations
+### Abbreviations
 
-Souvent les abréviations ou acronymes ne sont compris que par une partie d'utilisateurs initiés ou experts du domaine concerné, ou d'un niveau de scolarisation avancé.
+Often the abbreviations or acronyms are understood only by a part of users in the know, or experts of the field concerned, or of an advanced level of education.
 
-Pour permettre la compréhension par tous, vous devez indiquer leur signification sur la première occurrence dans un document.
-Le plus simple est d'indiquer immédiatement après l'abréviation la signification entre parenthèses. Par exemple : TVA (Taxe sur la valeur ajoutée).
+To enable comprehension by all, you must indicate their meaning on the first occurrence in a document.
 
-### Jargons, expressions inhabituelles, expressions idiomatiques et mots nécessitant un niveau de lecture avancée
+The simplest way to do this is to indicate immediately after the abbreviation the meaning between parentheses. For example: VAT (value added tax).
 
-Chaque texte qui nécessite un niveau de lecture plus avancé que celui de la classe de 6<sup>e</sup>  (hors nom propre et titre) doit être explicité &nbsp;:
+### Jargons, unusual expressions, idioms, and words requiring advanced reading abilities
 
-- Le mot est illustré au travers d'une image ou de symboles graphiques adaptés au niveau de lecture du premier cycle de l'enseignement secondaire.
-- Le mot dispose d'une version en langue des signes française (LSF).
-- Le mot dispose d'une version vocalisée.
-- Un résumé adapté est proposé au niveau de lecture de classe de 6<sup>e</sup>.
+Each text that requires a more advanced reading level than 6<sup>th</sup> grade (excluding proper nouns and titles) should be explained:
 
-De même, le jargon, les expressions idiomatiques ou inhabituelles doivent être explicités&nbsp;:
+- The text is illustrated through an image or graphic symbols adapted to the reading level corresponding to the first cycle of secondary education;
+- The text is available in a sign language version;
+- The text is available in spoken version;
+- A suitable abstract is proposed, with a reading level adapted to 6<sup>th</sup> grade.
 
-- Une définition dans le contexte adjacent de l'expression.
-- Une définition via une liste de définition.
-- Une définition dans la page.
-- L'expression est contenue dans un lien permettant d'accéder à la définition.
+Similarly, jargon, idiomatic or unusual expressions should be explained:
 
-Pour des recommandations d'écriture en langage simple, nous vous renvoyons à la méthode **Facile à lire et à comprendre (FALC)** de l'UNAPEI. Vous pouvez [trouverez des guides sur le site de l'ADAPEI](http://www.adapei66.org/articles-5/78-158-les-3-guides/). La méthode Facile à lire et à comprendre donne des recommandations pour rédiger et illustrer des textes afin qu'ils soient accessibles aux personnes en situation de handicap mental, psychique ou cognitif.
+- Through a definition in the adjacent context of the expression.
+- Through a definition provided via a definition list.
+- Through a definition available in the same page.
+- The expression is contained in a link to the definition.
 
-### Glossaire
+For plain language writing recommendations, we refer you to the **Easy-to-Read**  European standards. You can find [guidelines on the Easy-to-read website](http://easy-to-read.eu/european-standards/). These standards provide recommendations for writing and illustrating texts so that they are accessible to people with mental, psychological or cognitive disabilities.
 
-Pour tous ces termes qui nécessitent une définition, il est également possible de mettre en place un glossaire. Ainsi, au lieu d'indiquer les alternatives demandées directement dans le texte, vous pouvez réaliser des liens qui mènent vers leurs explications dans le glossaire. Il est même possible d'automatiser en partie ce mécanisme.
+### Glossary
 
-Rapprochez-vous de votre service informatique pour évaluer cette possibilité.
+For all these terms that require definitions, it is also possible to set up a glossary. Thus, instead of indicating the required alternatives directly in the text, you can link words to their definitions in the glossary. It is even possible to partly automate this mechanism.
 
-## Correspondances RGAA 3
-
-- Critère 9.4 [AAA]
-- Critère 9.5 [AAA]
-- Critère 13.9 [AAA]
-- Critère 13.10 [AAA]
-- Critère 13.13 [AAA]
-- Critère 13.14 [AAA]
-
-## Voir ailleurs
-
-- [Guides pour une rédaction en Facile à lire et à comprendre sur le site de l'ADAPEI](http://www.adapei66.org/articles-5/78-158-les-3-guides/)&nbsp;;
-- Exemple&nbsp;: [le discours de politique générale du Premier ministre en FALC](http://www.social-sante.gouv.fr/actualite-presse,42/discours,2333/facile-a-lire-et-a-comprendre-le,15019.html).
+Get closer to your IT department to assess this possibility.
 
 
-### Sommaire du guide «&nbsp;Contribuer sur le Web de manière accessible&nbsp;»
+## See elsewhere&hellip;
+
+- [Easy-to-read guidelines](http://easy-to-read.eu/european-standards/)
+- [Additional teaching materials](http://easy-to-read.eu/teaching-materials/) (provide examples of easy-to-read texts)
+
+
+
+## Matching criteria in the RGAA 3
+
+- [Criterion 9.4 [AAA]](https://disic.github.io/rgaa_referentiel_en/criteria.html#crit-9-4)
+- [Criterion 9.5 [AAA]](https://disic.github.io/rgaa_referentiel_en/criteria.html#crit-9-5)
+- [Criterion 13.9 [AAA]](https://disic.github.io/rgaa_referentiel_en/criteria.html#crit-13-9)
+- [Criterion 13.10 [AAA]](https://disic.github.io/rgaa_referentiel_en/criteria.html#crit-13-10)
+- [Criterion 13.13 [AAA]](https://disic.github.io/rgaa_referentiel_en/criteria.html#crit-13-13)
+- [Criterion 13.14 [AAA]](https://disic.github.io/rgaa_referentiel_en/criteria.html#crit-13-14)
+
+## Summary of the "Accessible Authoring for the Web" guide
 
 * [Introduction](0-intro.md)
-* [Fiche 1&nbsp;: Quand une image vaut mille mots](images.md)
-* [Fiche 2&nbsp;: Les couleurs](couleurs.md)
-* [Fiche 3&nbsp;: Embarquer des contenus d'autres sites sur ses pages](cadres.md)
-* [Fiche 4&nbsp;: Du multimédia pour tous et toutes](multimedia.md)
-* [Fiche 5&nbsp;: Des tableaux pour présenter des données, <i lang="en">what else?</i>](tableaux.md)
-* [Fiche 6&nbsp;: Créer du lien sans perdre son chemin](liens.md)
-* [Fiche 7&nbsp;: Les titres, ou le plan de la page](titres.md)
-* [Fiche 8&nbsp;: Listes à puces et listes numérotées](listes.md)
-* [Fiche 9&nbsp;: Textes multilingues](langue.md)
-* [Fiche 10&nbsp;: Citations](citations.md)
-* [Fiche 11&nbsp;: Mise en forme des textes](mise-en-forme.md)
-* [Fiche 12&nbsp;: Documents en téléchargement](docs_telechargement.md)
-* [Fiche 13&nbsp;: Abréviations, mots complexes et glossaire](definition.md)
-* [Glossaire](glossaire.md)
+* [Sheet 1: When a picture is worth a thousand words](images.md)
+* [Sheet 2: Colors](colors.md)
+* [Sheet 3: Embed content from other sites on your pages](frames.md)
+* [Sheet 4: Multimedia for Everyone](multimedia.md)
+* [Sheet 5: Tables to present data, <i>what else?</i>](tables.md)
+* [Sheet 6: Creating links without losing one's path](links.md)
+* [Sheet 7: Headings, or the page outline](headings.md)
+* [Sheet 8: Bulleted lists and numbered lists](lists.md)
+* [Sheet 9: Multilingual texts](language.md)
+* [Sheet 10: Quotations](quotes.md)
+* [Sheet 11: Formatting texts](formatting.md)
+* [Sheet 12: Downloadable documents](downloadable_documents.md)
+* [Sheet 13: Abbreviations, complex words and glossary](definition.md)
+* [Glossary](glossary.md)

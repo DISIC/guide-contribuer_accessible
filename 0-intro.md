@@ -1,98 +1,99 @@
-# Guide «&nbsp;Contribuer sur le Web de manière accessible&nbsp;»
+# Accessible Authoring for the Web
 
 ## Introduction
 
-Ce guide [du contributeur](glossaire.md#contributeur) vous est proposé dans le cadre des ressources accompagnant la prise en main de la version 3 du référentiel général d'accessibilité pour les administrations (RGAA 3).
+This guide for [authors](glossary.md#author) is provided as part of the complementary resources of the version 3 of the <span lang="fr">Référentiel Général d’Accessibilité pour les Administrations</span> (RGAA&nbsp;3 - General Framework for Accessibility for the French Administrations).
 
-Le RGAA 3 est composé d'un [document d'introduction](http://references.modernisation.gouv.fr/introduction-au-rgaa-0), d'un [guide d'accompagnement](http://references.modernisation.gouv.fr/guide-daccompagnement-0) et d'un [référentiel technique](http://references.modernisation.gouv.fr/referentiel-technique-0). Cet ensemble de documents a une portée règlementaire puisqu'ils ont été rendus officiels par l'[arrêté du 29 avril 2015](http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000030540064&dateTexte=20150921), lui-même venant préciser l'[article 47 de la loi 2005-102 du 11 février 2005](http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000000809647&fastPos=1&fastReqId=1497340759&categorieLien=cid&oldAction=rechTexte#LEGIARTI000006682279) et l'[arrêté 2009-546 du 14 mai 2009](http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000030540064&categorieLien=id).
 
-Les ressources complémentaires sont des supports sans valeur règlementaire et visent à vous aider à rendre vos contenus numériques accessibles et conformes au RGAA 3.
+The RGAA 3 is composed of an [introduction document](https://disic.github.io/rgaa_referentiel_en/introduction-RGAA.html), an [companion guide](https://disic.github.io/rgaa_referentiel_en/rgaa-companion-guide.html) and a [technical reference](https://disic.github.io/rgaa_referentiel_en/criteria.html). This set of documents have come into force since they were made official by the [Order of April 29, 2015 (in French)](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000030540064&dateTexte=20150921), itself specifying the [article 47 of law 2005-102 of February 11, 2005 (in French)](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000000809647&fastPos=1&fastReqId=1497340759&categorieLien=cid&oldAction=rechTexte) and [Order 2009-546 of May 14, 2009 (in French)](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000030540064&categorieLien=id).
 
-### À qui s'adresse ce guide&nbsp;?
+Complementary resources have no regulatory value and are designed to help you make your digital content accessible and compliant with the RGAA&nbsp;3.
 
-Ce guide est destiné à toute personne amenée à produire des contenus web via un éditeur de texte fourni par un logiciel de gestion de contenus (CMS). Il n'est pas nécessaire de savoir lire ni écrire du code HTML pour utiliser ce guide.
+## Who is this guide for
 
-Le guide abordera les questions d'insertion de textes, d'images, de contenus multimédia ou de contenus embarqués depuis d'autres sites web.
+This authoring guide is intended for anyone who is required to produce web content via a text editor provided by a Content Management System (CMS). There is no need to be able to read or write HTML code to use this guide.
 
-#### À chacun son métier
+The guide will address the issues of inserting texts, images, multimedia content or embedded content from other websites.
 
-Il est fréquent qu'une même personne exerce différentes fonctions, notamment dans les structures de petite taille. Toutefois, la complexité du Web tend à spécialiser certaines fonctions et à répartir le travail sur des postes spécifiques. Ce guide concernera uniquement la contribution web, et sera complété par d'autres guides abordant les autres aspects de la chaîne de production web.
+## Stick with your own trade
 
-Par souci pédagogique, nous aborderons volontairement ici uniquement les notions utiles pour les personnes contribuant sur le Web sans toucher à l'éditeur de code HTML.
+It is common for the same person to perform different functions, especially in small structures. However, the complexity of the Web tends to specialize certain functions and to distribute work on specific positions. This guide will only cover the web authoring, and will be supplemented by other guides addressing other aspects of the web production chain.
 
-De même, nous ne traiterons pas dans ce guide de ce qui relève de la conception ou de la mise en page.
+For educational purposes, we will deliberately address here only the notions useful for Web content authors, without having to use an HTML editor.
 
-Attention : la plupart des éditeurs de texte permettent d'insérer du code HTML pour modifier notamment l'apparence du texte. Nous vous mettons en garde contre la tentation d'aller toucher au code sans formation préalable. Sans connaissance technique, vous risquez de provoquer des erreurs qui pourraient avoir un impact sur la consultation des contenus par les personnes en situation de handicap.
+Similarly, we will not discuss in this guide notions related to design or layout.
 
-Par ailleurs, même si votre intention était de pallier des erreurs de code liées à la conception du site et aux paramétrages du logiciel pour rendre le contenu plus accessible, toute intervention sur le code au niveau des [contributeurs](glossaire.md#contributeur) rend une réparation difficile voire impossible du côté des développeurs par la suite.
+Caution: most text editors allow you to insert HTML code to modify the appearance of the text. We warn you against the temptation to alter the code without prior training. Without technical knowledge, you are likely to cause errors that could have an impact on the consultation of contents by people with disabilities.
 
-### Mode d'emploi du guide
+In addition, even if your intention was to compensate for code errors related to site design and software settings to make content more accessible, any code intervention by [authors](glossary.md#author) makes it difficult or even impossible to repair on the developers side afterwards.
 
-Le guide a été pensé comme une série de fiches pratiques étant toutes sur le même modèle pour en faciliter l'utilisation. Vous pouvez les lire en fonction de vos besoins, sans avoir à suivre un ordre particulier, chaque fiche étant indépendante.
+## How to use this guide
 
-Chaque fiche est structurée de la même manière&nbsp;:
+This guide has been designed as a series of practical fact sheets sharing the same presentation for easy use. You can read them according to your needs, without having to follow a particular order, each file being independent.
 
-* **Enjeux pour l'utilisateur en situation de handicap**&nbsp;: cette section vient expliciter l'importance des recommandations décrites pour les utilisateurs concernés&nbsp;;
-* **En pratique et en images**&nbsp;: il s'agit d'un mini-tutoriel vous expliquant pas à pas et de façon illustrée ce que vous devez faire pour prendre en compte l'accessibilité sur la thématique abordée dans la fiche&nbsp;;
-* **Mémo pour agir**&nbsp;: un récapitulatif sous forme de liste à puces vient clore le tutoriel, pour vous aider à retenir l'essentiel et à mettre en pratique les recommandations abordées plus haut dans la fiche.
+Each sheet has the same structure:
 
-En plus de ces trois sections, vous pouvez retrouver selon les fiches :
+* **Issues for users with disabilities**: this section clarifies the importance of the recommendations, for the users concerned
+* **In practice and in pictures**: this is a mini-tutorial explaining step by step, with illustrations, what you need to do to take into account the accessibility, in relation with the topic covered in the sheet
+* **Memo for Action**: A bullet-point list completes the tutorial, to help you remember the basics and put into practice the recommendations discussed earlier in the sheet.
 
-* **Idées reçues**&nbsp;: on décortique ici les idées reçues concernant l'accessibilité sur la thématique concernée&nbsp;;
-* **Voir aussi**&nbsp;: nous indiquons ici lorsqu'il y a des liens avec d'autres guides édités dans le cadre des ressources complémentaires au RGAA 3&nbsp;;
-* **Voir ailleurs**&nbsp;: nous listerons une sélection de ressources tierces dont la qualité et la complémentarité à l'approche adoptée dans ce guide nous semblent intéressantes.
+In addition to these three sections, you can also find, in some sheets, these sections:
 
-Enfin, vous retrouverez toujours au bas de la fiche :
+* **Stereotypes**: we dissect here the stereotypes regarding accessibility on the sheet topic;
+* **See also**: here we indicate when there are links to other guides published as part of the complementary resources to the RGAA 3;
+* **See elsewhere**: we list here a selection of third-party resources whose quality and complementarity to the approach adopted in this guide seem interesting.
 
-* **Correspondances RGAA 3**&nbsp;: les correspondances avec les critères du référentiel technique du RGAA 3&nbsp;;
-* **Sommaire**&nbsp;: une liste vous permettant de naviguer à travers l'ensemble des fiches du guide.
+Finally, you will always find at the bottom of the sheet:
 
-## Sommaire des fiches thématiques
+
+* **Matching criteria in the RGAA 3**: criteria of the RGAA 3 Technical Reference related with the current topic;
+* **Contents**: a list allowing you to browse through the guide.
+
+## Summary of Thematic Sheets
 
 * [Introduction](0-intro.md)
-* [Fiche 1&nbsp;: Quand une image vaut mille mots](images.md)
-* [Fiche 2&nbsp;: Les couleurs](couleurs.md)
-* [Fiche 3&nbsp;: Embarquer des contenus d'autres sites sur ses pages](cadres.md)
-* [Fiche 4&nbsp;: Du multimédia pour tous et toutes](multimedia.md)
-* [Fiche 5&nbsp;: Des tableaux pour présenter des données, <i lang="en">what else?</i>](tableaux.md)
-* [Fiche 6&nbsp;: Créer du lien sans perdre son chemin](liens.md)
-* [Fiche 7&nbsp;: Les titres, ou le plan de la page](titres.md)
-* [Fiche 8&nbsp;: Listes à puces et listes numérotées](listes.md)
-* [Fiche 9&nbsp;: Textes multilingues](langue.md)
-* [Fiche 10&nbsp;: Citations](citations.md)
-* [Fiche 11&nbsp;: Mise en forme des textes](mise-en-forme.md)
-* [Fiche 12&nbsp;: Documents en téléchargement](docs_telechargement.md)
-* [Fiche 13&nbsp;: Abréviations, mots complexes et glossaire](definition.md)
-* [Glossaire](glossaire.md)
+* [Sheet 1: When a picture is worth a thousand words](images.md)
+* [Sheet 2: Colors](colors.md)
+* [Sheet 3: Embed content from other sites on your pages](frames.md)
+* [Sheet 4: Multimedia for Everyone](multimedia.md)
+* [Sheet 5: Tables to present data, <i>what else?</i>](tables.md)
+* [Sheet 6: Creating links without losing one's path](links.md)
+* [Sheet 7: Headings, or the page outline](headings.md)
+* [Sheet 8: Bulleted lists and numbered lists](lists.md)
+* [Sheet 9: Multilingual texts](language.md)
+* [Sheet 10: Quotations](quotes.md)
+* [Sheet 11: Formatting texts](formatting.md)
+* [Sheet 12: Downloadable documents](downloadable_documents.md)
+* [Sheet 13: Abbreviations, complex words and glossary](definition.md)
+* [Glossary](glossary.md)
 
-### Contribution web et RGAA 3
+## Web authoring and RGAA 3
 
-Thématiques du RGAA 3 abordées à travers ces fiches&nbsp;:
+Categories of the RGAA 3 addressed through these sheets:
 
-* [Images](http://references.modernisation.gouv.fr/referentiel-technique-0#title-121-images)&nbsp;;
-* [Cadres](http://references.modernisation.gouv.fr/referentiel-technique-0#title-122-cadres)&nbsp;;
-* [Couleurs](http://references.modernisation.gouv.fr/referentiel-technique-0#title-123-couleurs)&nbsp;;
-* [Multimédia](http://references.modernisation.gouv.fr/referentiel-technique-0#title-124-multimdia)&nbsp;;
-* [Tableaux](http://references.modernisation.gouv.fr/referentiel-technique-0#title-125-tableaux)&nbsp;;
-* [Liens](http://references.modernisation.gouv.fr/referentiel-technique-0#title-126-liens)&nbsp;;
-* [Éléments obligatoires](http://references.modernisation.gouv.fr/referentiel-technique-0#title-128-lments-obligatoires)&nbsp;;
-* [Structuration de l'information](http://references.modernisation.gouv.fr/referentiel-technique-0#title-129-structuration-de-linformation)&nbsp;;
-* [Présentation de l'information](http://references.modernisation.gouv.fr/referentiel-technique-0#title-1210-prsentation-de-linformation)&nbsp;;
-* [Consultation](http://references.modernisation.gouv.fr/referentiel-technique-0#title-1213-consultation).
+* [Images](https://disic.github.io/rgaa_referentiel_en/criteria.html#images);
+* [Frames](https://disic.github.io/rgaa_referentiel_en/criteria.html#cadres);
+* [Colors](https://disic.github.io/rgaa_referentiel_en/criteria.html#couleurs);
+* [Multimedia](https://disic.github.io/rgaa_referentiel_en/criteria.html#multimedia)
+* [Tables](https://disic.github.io/rgaa_referentiel_en/criteria.html#tableaux);
+* [Links](https://disic.github.io/rgaa_referentiel_en/criteria.html#liens);
+* [Mandatory elements](https://disic.github.io/rgaa_referentiel_en/criteria.html#elements);
+* [Information structure](https://disic.github.io/rgaa_referentiel_en/criteria.html#structure);
+* [Presentation of information](https://disic.github.io/rgaa_referentiel_en/criteria.html#presentation);
+* [Consultation](https://disic.github.io/rgaa_referentiel_en/criteria.html#consultation).
 
-### Ressources externes et références
+## External resources and references
 
-- [Comprendre les WCAG : description de cas utilisateurs et d'impacts par type de handicap](http://www.w3.org/Translations/NOTE-UNDERSTANDING-WCAG20-fr/Overview.html#contents)&nbsp;;
-- [Vidéos sur l'accessibilié des contenus - Access<span lang="en">key</span>](http://portail.unice.fr/access-key/videos)&nbsp;;
-- [Bonnes pratiques pour l'accessibilité des documents numériques (Sur le site de l'Unité ingénierie des contenus et savoirs)](http://ics.utc.fr/capa/DOCS/SP4/Tuto/02/co/02-CAPA_BonnesPratiques_1.html)&nbsp;;
-- [Créer des états de boutons accessibles pour les utilisateurs ne percevant pas la couleur (ressources en anglais)](http://uxmovement.com/buttons/making-selected-button-states-clear-for-color-blind-users)&nbsp;;
-- [Créer des documents accessibles avec Microsoft Office Word 2010](http://www.microsoft.com/fr-fr/download/details.aspx?id=23856)&nbsp;;
-- [Créer des documents accessibles avec Microsoft Office Word 2007](http://www.microsoft.com/fr-fr/download/details.aspx?id=8908)&nbsp;;
-- [AccessODF - Extension d'accessibilité pour les logiciels OpenOffice et LibreOffice](http://extensions.libreoffice.org/extension-center/accessodf)&nbsp;;
-- [Des exemples de vidéos accessibles sur le site du FIPHFP](http://www.fiphfp.fr/Temoignages/Temoignages-d-agents)&nbsp;;
-- [Guides de l'ADAPEI pour écrire des textes selon la méthode Facile à lire et à comprendre (FALC)](http://www.adapei66.org/articles-5/78-158-les-3-guides/).
+- [Understanding WCAG](http://www.w3.org/TR/UNDERSTANDING-WCAG20/): contains descriptions of user cases and impacts by type of disability
+- [Web Accessibility Perspectives: Explore the Impact and Benefits for Everyone (videos)](https://www.w3.org/WAI/perspectives/)
+- [Before and After Demonstration](https://www.w3.org/WAI/demos/bad/Overview.html)
+- [Accessible Digital Office Document (ADOD) Project](http://adod.idrc.ocad.ca/);
+- [Making Selected Button States Clear for Color Blind Users](http://uxmovement.com/buttons/making-selected-button-states-clear-for-color-blind-users/);
+- [Make your Word documents accessible](https://support.office.com/en-us/article/Make-your-Word-documents-accessible-d9bf3683-87ac-47ea-b91a-78dcacb3c66d)
+- [AccessODF - an accessibility checker for Writer, in the OpenOffice and LibreOffice suites](http://accessodf.sourceforge.net/)
+- [European standards for making information easy to read and understand](http://easy-to-read.eu/european-standards/).
 
 
-### Licence d'utilisation
+## Licence
 
-Ce document est la propriété du Secrétariat général à la modernisation de l'action publique français (SGMAP). Il est placé sous la [licence ouverte 1.0 ou ultérieure](https://www.etalab.gouv.fr/licence-ouverte-open-licence), équivalente à une licence <i lang="en">Creative Commons BY</i>. Pour indiquer la paternité, ajouter un lien vers la version originale du document disponible sur le [compte <span lang="en">GitHub</span> de la DInSIC](https://github.com/DISIC).
+This document is the property of the <span lang="fr">Secrétariat général à la modernisation de l'action publique</span> (SGMAP). It is placed under [Open Licence 1.0 or later (PDF, 541 kb)](http://ddata.over-blog.com/xxxyyy/4/37/99/26/licence/Licence-Ouverte-Open-Licence-ENG.pdf), equivalent to a Creative Commons BY licence. To indicate authorship, add a link to the original version of the document available on the [DINSIC's GitHub account](https://github.com/DISIC).

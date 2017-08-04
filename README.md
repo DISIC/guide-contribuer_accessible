@@ -1,43 +1,47 @@
-# Guide « Contribuer sur le Web de manière accessible »
-## PRÉSENTATION
+# Authoring for the Web in an accessible way
 
-Ce guide du contributeur est destiné à toute personne amenée à produire des contenus web via un éditeur de texte fourni par un logiciel de gestion de contenus (CMS). Il n'est pas nécessaire de savoir lire ni écrire du code HTML pour utiliser ce guide.
+## Presentation
 
-Le guide abordera les questions d'insertion de textes, d'images, de contenus multimédia ou de contenus embarqués depuis d'autres sites web.
+This authoring guide is intended for anyone who is required to produce web content via a text editor provided by a Content Management Software (CMS). There is no need to be able to read or write HTML code to use this guide.
 
-Par souci pédagogique, nous aborderons volontairement ici uniquement les notions utiles pour les personnes contribuant sur le Web sans toucher à l'éditeur de code HTML.
+The guide will address the issues of inserting texts, images, multimedia content or embedded content from other websites.
 
-De même, nous ne traiterons pas dans ce guide de ce qui relève de la conception ou de la mise en page.
+For educational purposes, we will deliberately address here only the notions useful for Web content authors, without having to use an HTML editor.
 
-## MODE D'EMPLOI DU GUIDE
+Similarly, we will not discuss in this guide notions related to design or layout.
 
-Ce guide a été pensé comme une série de fiches pratiques étant toutes sur le même modèle pour en faciliter l'utilisation. Vous pouvez les lire en fonction de vos besoins, sans avoir à suivre un ordre particulier, chaque fiche étant indépendante.
+## How to use this guide
 
-Chaque fiche est structurée de la même manière :
-* Enjeux pour l'utilisateur en situation de handicap
-* En pratique et en images
-* Mémo pour agir
+This guide has been designed as a series of practical fact sheets sharing the same presentation for easy use. You can read them according to your needs, without having to follow a particular order, each file being independent.
 
-En plus de ces trois sections, vous pouvez retrouver selon les fiches :
-* Idées reçues
-* Voir aussi
-* Voir ailleurs
+Each sheet has the same structure:
 
-Enfin, vous retrouverez à chaque fois au bas de la fiche :
-* Correspondances RGAA 3
-* Sommaire
+* Issues for users with disabilities
+* In practice and in pictures
+* Memo for action
 
-## THÉMATIQUES ABORDÉES
+In addition to these three sections, you can also find, in some sheets, these sections:
+
+* Stereotypes
+* See also
+* See elsewhere
+
+Finally, you will always find at the bottom of the sheet:
+
+* Matching criteria in the RGAA 3
+* Contents
+
+## Categories
 
 * Images
-* Cadres
-* Couleurs
-* Multimédia
-* Tableaux
-* Liens
-* Elements obligatoires
-* Structuration de l'information
-* Présentation de l'information
+* Frames
+* Colors
+* Multimedia
+* Tables
+* Links
+* Mandatory elements
+* Information structure
+* Presentation of information
 * Consultation
 
-Ce guide est rédigé au format markdown Vous trouverez sur ce [lien wikipedia](https://fr.wikipedia.org/wiki/Markdown) des précisions sur ce langage. Enfin, il peut également être [consulté en ligne](http://disic.github.io/guide-contribuer_accessible/).
+This guide is written in markdown. You will find in this [wikipedia article](https://en.wikipedia.org/wiki/Markdown) details about this language. Finally, it can also be [read online](http://disic.github.io/guide-contribuer_accessible/).
